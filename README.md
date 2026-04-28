@@ -1,6 +1,6 @@
 # 🎙️ Audio Intelligence System
 
-> **Local offline capable AI pipeline for voice transcription, multilingual translation and summarisation.**
+> **Home Lab POC - Local offline capable AI pipeline for voice transcription, multilingual translation and summarisation.**
 
 ---
 
