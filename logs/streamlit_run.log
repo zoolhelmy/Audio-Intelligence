@@ -1,0 +1,39 @@
+(venv) PS C:\AudioIntel> streamlit run app/main.py
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.100.41:8501
+
+2026-04-28 09:38:25 | INFO     | main | --------------------------------------------------------
+2026-04-28 09:38:25 | INFO     | main | CUDA memory cleared. Free: 5.0 GB / 6.0 GB
+2026-04-28 09:38:25 | INFO     | main | Found 1 file(s) in C:/AudioIntel/tmp/Ninja_Teacher.mp3
+2026-04-28 09:38:25 | INFO     | main | Initialising engines...
+2026-04-28 09:38:25 | INFO     | main | VRAM available: 5.0 GB — loading to GPU.
+2026-04-28 09:38:25 | INFO     | main | Loading Whisper for file 1/1...
+2026-04-28 09:38:32 | INFO     | main | Transcribing Ninja_Teacher.mp3...
+Detected language: English
+100%|███████████████████████████████████████████████████████████████████████████| 193606/193606 [17:53<00:00, 180.28frames/s]
+2026-04-28 09:56:34 | INFO     | main | Transcription saved: C:\AudioIntel\output-transcription\Ninja_Teacher_20260428_093825_transcription.txt
+2026-04-28 09:56:34 | INFO     | main | Translating Ninja_Teacher.mp3 to English > Chinese... (~29 chunks estimated)
+Loading weights: 100%|███████████████████████████████████████████████████████████████████| 509/509 [00:00<00:00, 4772.79it/s]
+2026-04-28 10:06:45 | INFO     | main | Translation saved: C:\AudioIntel\output-translated\Ninja_Teacher_20260428_093825_translated.txt
+2026-04-28 10:06:46 | INFO     | main | Summarising Ninja_Teacher.mp3...
+2026-04-28 10:08:49 | INFO     | main | Summary saved: C:\AudioIntel\output-summary\Ninja_Teacher_20260428_093825_summary.txt
+2026-04-28 10:08:49 | INFO     | main | Pipeline complete.
+2026-04-28 09:38:25 | INFO     | main | --------------------------------------------------------
+2026-04-28 10:21:37 | INFO     | main | CUDA memory cleared. Free: 4.9 GB / 6.0 GB
+2026-04-28 10:21:37 | INFO     | main | Found 1 file(s) in C:/AudioIntel/tmp/Ninja_Teacher.mp3
+2026-04-28 10:21:37 | INFO     | main | Initialising engines...
+2026-04-28 10:21:37 | INFO     | main | VRAM available: 4.9 GB — loading to GPU.
+2026-04-28 10:21:37 | INFO     | main | Loading Whisper for file 1/1...
+2026-04-28 10:21:45 | INFO     | main | Transcribing Ninja_Teacher.mp3...
+Detected language: English
+100%|███████████████████████████████████████████████████████████████████████████| 193606/193606 [09:32<00:00, 338.23frames/s]
+2026-04-28 10:31:24 | INFO     | main | Transcription saved: C:\AudioIntel\output-transcription\Ninja_Teacher_20260428_102137_transcription.txt
+2026-04-28 10:31:24 | INFO     | main | Translating Ninja_Teacher.mp3 to English > Chinese... (~29 chunks estimated)
+Loading weights: 100%|███████████████████████████████████████████████████████████████████| 509/509 [00:00<00:00, 2677.50it/s]
+2026-04-28 10:40:03 | INFO     | main | Translation saved: C:\AudioIntel\output-translated\Ninja_Teacher_20260428_102137_translated.txt
+2026-04-28 10:40:04 | INFO     | main | Summarising Ninja_Teacher.mp3...
+2026-04-28 10:41:32 | INFO     | main | Summary saved: C:\AudioIntel\output-summary\Ninja_Teacher_20260428_102137_summary.txt
+2026-04-28 10:41:32 | INFO     | main | Pipeline complete.

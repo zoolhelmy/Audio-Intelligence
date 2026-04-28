@@ -1,0 +1,53 @@
+# config.yaml 
+project_root: 'C:/AudioIntel'
+
+folders: 
+    input_voice:        'input-voice'
+    output_translated:  'output-translated'
+    output_transcription: 'output-transcription'
+    output_summary:     'output-summary'
+    prompt_summary:     'prompt-summary'
+    logs:               'logs'
+    models_whisper:     'models/whisper'
+    models_marian:      'models/marian'
+    models_nllb:        'models/nllb'
+
+whisper:
+    model_size:         'medium'    # PERFORMANCE TUNING. Adjust based on your VRAM:
+                                    # 32 GB VRAM, model_size='large-v3
+                                    # 16 GB VRAM, model_size='medium' 
+                                    # 8 GB VRAM, model_size='small'
+    beam_size:          1           # PERFORMANCE TUNING. Adjust for quality/speed trade-off:
+                                    # 5 is default; higher = better quality but slower. 
+                                    # VRAM can be a bottleneck for large models + long audio.
+    device:             'cuda'      # cuda | cpu
+    language:           null        # null = auto-detect; or 'en', 'ms', etc.    
+    word_timestamps:    true 
+    fp16:               true        # use float16 for GPU speed-up
+
+translation: 
+    enabled:            false       # default off; toggled in UI         
+    source_lang:        'en' 
+    target_lang:        'ms' 
+    available_pairs:
+                        - ['en', 'ms', 'English > Malay'] 
+                        - ['en', 'zh', 'English > Chinese'] 
+                        - ['en', 'ar', 'English > Arabic'] 
+                        - ['en', 'fr', 'English > French'] 
+                        - ['en', 'de', 'English > German']
+    chunk_size: 512
+    chunk_timeout: 300    # seconds per chunk before giving up
+
+ollama:
+    base_url:           'http://localhost:11434' 
+    model:              'llama3.1:latest' 
+    timeout:            300         # PERFORMANCE TUNING. Adjust based on your system capabilities and expected transcript length:
+                                    # larger model needs more time to generate summary; longer transcripts also require more time.
+    max_tokens:         1024        # PERFORMANCE TUNING. Adjust based on your needs and model capabilities:
+                                    # 32 GB VRAM can handle up to ~2048 tokens; 16 GB VRAM can handle up to ~1024 tokens.
+    max_prompt_chars:   12000       # PERFORMANCE TUNING. Adjust to fit more or less transcript text into the prompt:
+                                    # 12000 chars is a good starting point for balancing context and performance.
+logging: 
+    level:              'INFO'      # INFO | DEBUG
+    max_bytes:          10485760    # 10 MB per log file
+    backup_count:       5

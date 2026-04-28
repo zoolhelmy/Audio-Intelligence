@@ -1,0 +1,251 @@
+======================================================================
+AUDIO TRANSCRIPTION REPORT
+======================================================================
+File            : read.mp3
+Generated       : 2026-04-25 11:56:51
+Detected Language: EN
+Whisper Model   : medium
+Duration        : 00:02:56
+Total Segments  : 76
+======================================================================
+
+TRANSCRIPT
+----------------------------------------------------------------------
+[00:00:00 → 00:00:03]  SPEAKER 01
+  This is a download from BBC Learning English.
+
+[00:00:03 → 00:00:05]  SPEAKER 01
+  To find out more, visit our website.
+
+
+[00:00:14 → 00:00:17]  SPEAKER 02
+  Hello and welcome to The English We Speak
+
+[00:00:17 → 00:00:18]  SPEAKER 02
+  with me, Feifei.
+
+[00:00:18 → 00:00:19]  SPEAKER 02
+  And me, Roy.
+
+[00:00:19 → 00:00:22]  SPEAKER 02
+  In this programme we have an expression
+
+[00:00:22 → 00:00:24]  SPEAKER 02
+  which describes when someone has read
+
+[00:00:24 → 00:00:25]  SPEAKER 02
+  the message you've sent them
+
+[00:00:25 → 00:00:27]  SPEAKER 02
+  but hasn't replied.
+
+[00:00:27 → 00:00:28]  SPEAKER 02
+  That reminds me, Roy,
+
+[00:00:28 → 00:00:30]  SPEAKER 02
+  did you get my message yesterday?
+
+[00:00:31 → 00:00:33]  SPEAKER 02
+  Oh, yes I did.
+
+[00:00:33 → 00:00:35]  SPEAKER 02
+  I read it and then totally
+
+[00:00:35 → 00:00:36]  SPEAKER 02
+  forgot to answer you.
+
+[00:00:37 → 00:00:38]  SPEAKER 02
+  Was it something important?
+
+[00:00:38 → 00:00:40]  SPEAKER 02
+  I can't believe it.
+
+[00:00:40 → 00:00:42]  SPEAKER 02
+  You completely ignored my message.
+
+[00:00:42 → 00:00:44]  SPEAKER 02
+  I got left unread.
+
+[00:00:45 → 00:00:47]  SPEAKER 02
+  What's the colour red got to do
+
+[00:00:47 → 00:00:49]  SPEAKER 02
+  with the fact I forgot to reply?
+
+[00:00:50 → 00:00:51]  SPEAKER 02
+  Red's actually my favourite colour.
+
+[00:00:52 → 00:00:53]  SPEAKER 02
+  Not red the colour,
+
+[00:00:54 → 00:00:56]  SPEAKER 02
+  but red as in the past of read.
+
+[00:00:56 → 00:00:58]  SPEAKER 02
+  Ah, got you.
+
+[00:00:59 → 00:01:01]  SPEAKER 02
+  Sorry, I didn't mean to leave you on red.
+
+[00:01:01 → 00:01:03]  SPEAKER 02
+  It's just I was in the middle of something
+
+[00:01:03 → 00:01:06]  SPEAKER 02
+  and then I got distracted and then...
+
+[00:01:06 → 00:01:08]  SPEAKER 02
+  OK, Roy, I understand.
+
+[00:01:09 → 00:01:10]  SPEAKER 02
+  What was so important
+
+[00:01:10 → 00:01:11]  SPEAKER 02
+  that you couldn't reply?
+
+[00:01:12 → 00:01:15]  SPEAKER 02
+  I was eating a really nice banana
+
+[00:01:15 → 00:01:17]  SPEAKER 02
+  and then I just forgot.
+
+[00:01:18 → 00:01:18]  SPEAKER 02
+  Sorry.
+
+[00:01:19 → 00:01:20]  SPEAKER 02
+  That's a terrible excuse.
+
+[00:01:21 → 00:01:22]  SPEAKER 02
+  It's a good thing we're friends
+
+[00:01:22 → 00:01:24]  SPEAKER 02
+  or I might think you were ignoring me.
+
+[00:01:24 → 00:01:27]  SPEAKER 02
+  Anyway, let's listen to these examples.
+
+
+[00:01:31 → 00:01:33]  SPEAKER 03
+  I can't believe I was left unread.
+
+[00:01:34 → 00:01:35]  SPEAKER 03
+  I sent him a message
+
+[00:01:35 → 00:01:37]  SPEAKER 03
+  and I can see he's looked at it
+
+[00:01:37 → 00:01:39]  SPEAKER 03
+  but he hasn't replied.
+
+
+[00:01:40 → 00:01:43]  SPEAKER 04
+  My partner always leaves me unread.
+
+[00:01:43 → 00:01:45]  SPEAKER 04
+  They get really distracted
+
+[00:01:45 → 00:01:47]  SPEAKER 04
+  and then don't message me back.
+
+
+[00:01:49 → 00:01:51]  SPEAKER 05
+  You shouldn't assume the worst
+
+[00:01:51 → 00:01:52]  SPEAKER 05
+  if you get left unread.
+
+[00:01:52 → 00:01:53]  SPEAKER 05
+  If someone reads your message
+
+[00:01:53 → 00:01:54]  SPEAKER 05
+  and doesn't reply,
+
+[00:01:54 → 00:01:56]  SPEAKER 05
+  they might be really busy
+
+[00:01:56 → 00:01:57]  SPEAKER 05
+  and planning to respond later.
+
+
+[00:02:02 → 00:02:04]  SPEAKER 06
+  This is The English We Speak from
+
+[00:02:04 → 00:02:05]  SPEAKER 06
+  BBC Learning English
+
+[00:02:05 → 00:02:07]  SPEAKER 06
+  and we're talking about the expression
+
+[00:02:07 → 00:02:08]  SPEAKER 06
+  left unread.
+
+[00:02:09 → 00:02:11]  SPEAKER 06
+  We use this when someone has read a message
+
+[00:02:11 → 00:02:12]  SPEAKER 06
+  but hasn't replied.
+
+[00:02:13 → 00:02:15]  SPEAKER 06
+  So, were you really eating a banana
+
+[00:02:15 → 00:02:18]  SPEAKER 06
+  and that's why you left me unread?
+
+[00:02:18 → 00:02:19]  SPEAKER 06
+  Yeah, sorry.
+
+[00:02:20 → 00:02:22]  SPEAKER 06
+  Well, I was also playing video games
+
+[00:02:22 → 00:02:24]  SPEAKER 06
+  which might have been the main reason.
+
+[00:02:24 → 00:02:26]  SPEAKER 06
+  I knew it.
+
+[00:02:26 → 00:02:27]  SPEAKER 06
+  Well, the next time,
+
+[00:02:27 → 00:02:29]  SPEAKER 06
+  I want to offer you free tickets
+
+[00:02:29 → 00:02:32]  SPEAKER 06
+  to the Rops Rolling Biscuits rock concert.
+
+[00:02:32 → 00:02:33]  SPEAKER 06
+  Hopefully, you'll reply
+
+[00:02:33 → 00:02:35]  SPEAKER 06
+  and not just leave me unread.
+
+[00:02:35 → 00:02:37]  SPEAKER 06
+  What? Free tickets?
+
+[00:02:38 → 00:02:40]  SPEAKER 06
+  Let me read the message again.
+
+[00:02:41 → 00:02:43]  SPEAKER 06
+  Can I still have the tickets?
+
+[00:02:43 → 00:02:45]  SPEAKER 06
+  Sorry, it's too late now.
+
+[00:02:45 → 00:02:46]  SPEAKER 06
+  I gave them to Neil.
+
+[00:02:46 → 00:02:48]  SPEAKER 06
+  He didn't leave me unread.
+
+[00:02:48 → 00:02:49]  SPEAKER 06
+  Bye, Roy.
+
+[00:02:49 → 00:02:50]  SPEAKER 06
+  Bye.
+
+
+[00:02:54 → 00:02:56]  SPEAKER 07
+  BBC Learning English
+
+======================================================================
+FULL TEXT (plain)
+======================================================================
+This is a download from BBC Learning English. To find out more, visit our website. Hello and welcome to The English We Speak with me, Feifei. And me, Roy. In this programme we have an expression which describes when someone has read the message you've sent them but hasn't replied. That reminds me, Roy, did you get my message yesterday? Oh, yes I did. I read it and then totally forgot to answer you. Was it something important? I can't believe it. You completely ignored my message. I got left unread. What's the colour red got to do with the fact I forgot to reply? Red's actually my favourite colour. Not red the colour, but red as in the past of read. Ah, got you. Sorry, I didn't mean to leave you on red. It's just I was in the middle of something and then I got distracted and then... OK, Roy, I understand. What was so important that you couldn't reply? I was eating a really nice banana and then I just forgot. Sorry. That's a terrible excuse. It's a good thing we're friends or I might think you were ignoring me. Anyway, let's listen to these examples. I can't believe I was left unread. I sent him a message and I can see he's looked at it but he hasn't replied. My partner always leaves me unread. They get really distracted and then don't message me back. You shouldn't assume the worst if you get left unread. If someone reads your message and doesn't reply, they might be really busy and planning to respond later. This is The English We Speak from BBC Learning English and we're talking about the expression left unread. We use this when someone has read a message but hasn't replied. So, were you really eating a banana and that's why you left me unread? Yeah, sorry. Well, I was also playing video games which might have been the main reason. I knew it. Well, the next time, I want to offer you free tickets to the Rops Rolling Biscuits rock concert. Hopefully, you'll reply and not just leave me unread. What? Free tickets? Let me read the message again. Can I still have the tickets? Sorry, it's too late now. I gave them to Neil. He didn't leave me unread. Bye, Roy. Bye. BBC Learning English

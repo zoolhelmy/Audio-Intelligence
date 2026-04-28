@@ -11,13 +11,12 @@
 - [Technical Requirements](#technical-requirements)
 - [Pipeline Flow](#pipeline-flow)
 - [Key Software Stack](#key-software-stack)
-- [Folder Structure](#folder-structure)
 - [Configuration](#configuration)
 - [Output Formats](#output-formats)
 - [Supported Languages](#supported-languages)
 - [Logging](#logging)
 - [Known Limitations](#known-limitations)
-- [Future Roadmap — SaaS & Kubernetes](#future-roadmap--saas--kubernetes)
+- [Future Roadmap - SaaS & Kubernetes](#future-roadmap--saas--kubernetes)
 
 ---
 
@@ -92,76 +91,7 @@ The system is designed for business professionals who handle sensitive audio con
 
 ## Pipeline Flow
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                        USER BROWSER (UI)                        │
-│                   http://localhost:8501                         │
-│  ┌─────────────┐  ┌──────────────────┐  ┌───────────────────┐  │
-│  │ Select File │  │ Choose Language  │  │  Select Prompt    │  │
-│  │ (OS picker) │  │ (optional)       │  │  Template         │  │
-│  └──────┬──────┘  └────────┬─────────┘  └─────────┬─────────┘  │
-└─────────┼──────────────────┼───────────────────────┼────────────┘
-          │                  │                        │
-          ▼                  │                        │
-┌─────────────────┐          │                        │
-│  STAGE 1        │          │                        │
-│  AUDIO DECODE   │          │                        │
-│                 │          │                        │
-│  pydub + FFmpeg │          │                        │
-│  → 16kHz mono   │          │                        │
-│    WAV (temp)   │          │                        │
-└────────┬────────┘          │                        │
-         ▼                   │                        │
-┌─────────────────┐          │                        │
-│  STAGE 2        │          │                        │
-│  TRANSCRIPTION  │          │                        │
-│                 │          │                        │
-│  Whisper medium │          │                        │
-│  GPU (CUDA)     │          │                        │
-│                 │          │                        │
-│  Output:        │          │                        │
-│  • Segments     │          │                        │
-│  • Timestamps   │          │                        │
-│  • Language     │          │                        │
-│  • Speaker turns│          │                        │
-└────────┬────────┘          │                        │
-         │                   │                        │
-         │◄──── unload() ────┘                        │
-         │      (free VRAM)                           │
-         ▼                   ▼                        │
-┌─────────────────────────────────┐                  │
-│  STAGE 3 (Optional)             │                  │
-│  TRANSLATION                    │                  │
-│                                 │                  │
-│  NLLB-200 Distilled 600M (CPU)  │                  │
-│  Sentence-aware chunking        │                  │
-│  200 language pairs supported   │                  │
-│                                 │                  │
-│  unload() after completion      │                  │
-│  (free RAM before Ollama)       │                  │
-└────────────────┬────────────────┘                  │
-                 │                                    │
-                 ▼                                    ▼
-        ┌────────────────────────────────────────────────┐
-        │  STAGE 4                                       │
-        │  SUMMARISATION                                 │
-        │                                               │
-        │  Ollama REST API → mistral:latest             │
-        │  or llama3.1:latest (local LLM)               │
-        │  Configurable prompt templates                 │
-        │  Max context: 4096 tokens                     │
-        └────────────────────┬───────────────────────────┘
-                             │
-                             ▼
-              ┌──────────────────────────┐
-              │  OUTPUT FILES            │
-              │                          │
-              │  output-transcription/   │
-              │  output-translated/      │
-              │  output-summary/         │
-              │  logs/                   │
-              └──────────────────────────┘
-```
+![alt_text](img/pipeline-01.png "Pipeline flow")
 
 ### Memory Management Sequence
 
@@ -243,104 +173,28 @@ Prompt templates are stored as plain `.txt` files in `prompt-summary/` and can b
 
 ---
 
-## Folder Structure
-
-```
-C:\AudioIntel\
-│
-├── app/                          # Application source code
-│   ├── main.py                   # Streamlit UI entry point
-│   ├── transcriber.py            # Whisper transcription engine
-│   ├── translator.py             # NLLB-200 translation engine
-│   ├── summariser.py             # Ollama summarisation engine
-│   ├── file_manager.py           # Audio file discovery utilities
-│   ├── file_picker.py            # Native OS file/folder picker dialog
-│   └── logger_config.py          # Rotating log handler configuration
-│
-├── scripts/                      # One-time setup scripts
-│   └── download_nllb.py          # Download NLLB-200 model weights
-│
-├── models/                       # Local AI model weights (offline)
-│   ├── whisper/                  # Whisper model files (~1.5 GB for medium)
-│   └── nllb/
-│       └── nllb-200-distilled-600M/   # NLLB translation model (~2.4 GB)
-│
-├── input-voice/                  # Drop raw audio files here for processing
-│
-├── output-transcription/         # Structured transcription reports (.txt)
-│   └── filename_YYYYMMDD_HHMMSS_transcription.txt
-│
-├── output-translated/            # Translated text files (.txt)
-│   └── filename_YYYYMMDD_HHMMSS_translated.txt
-│
-├── output-summary/               # AI-generated summaries (.txt)
-│   └── filename_YYYYMMDD_HHMMSS_summary.txt
-│
-├── prompt-summary/               # Reusable summarisation prompt templates
-│   └── default_meeting.txt       # Sample business meeting prompt
-│
-├── logs/                         # Rotating application logs
-│   ├── main.log                  # UI and pipeline orchestration
-│   ├── transcriber.log           # Whisper events
-│   ├── translator.log            # NLLB-200 events
-│   └── summariser.log            # Ollama API events
-│
-├── offline_packages/             # Saved pip wheels for air-gap reinstall
-│
-├── config.yaml                   # Central configuration file
-├── requirements.txt              # Full dependency list (pip freeze)
-├── requirements_no_torch.txt     # Dependencies excluding PyTorch (for offline download)
-├── setup_folders.py              # Creates all required directories
-└── run.bat                       # One-click launch (Ollama + Streamlit)
-```
-
----
-
 ## Configuration
 
-All system behaviour is controlled through `config.yaml`. No code changes are required for common adjustments.
+All system behaviour is controlled through [config.yaml](config.yaml). No code changes are required for common adjustments.
 
 ---
 
 ## Output Formats
 
 ### Transcription Report (`output-transcription/`)
+Detail conversation with speakers identification, timestamp and brief header
 
-```
-======================================================================
-AUDIO TRANSCRIPTION REPORT
-======================================================================
-File            : meeting_2026_04.mp3
-Generated       : 2026-04-28 10:21:37
-Detected Language: EN
-Whisper Model   : medium
-Duration        : 00:12:14
-Total Segments  : 134
-======================================================================
-
-TRANSCRIPT
-----------------------------------------------------------------------
-[00:00:00 → 00:00:04]  SPEAKER 01
-  Good morning everyone, thank you for joining today's call.
-
-[00:00:04 → 00:00:09]  SPEAKER 01
-  Let's begin with a review of last quarter's performance.
-
-                                        ← pause > 1.5s = new speaker
-[00:00:11 → 00:00:15]  SPEAKER 02
-  Thanks. Revenue was up 12% versus Q3, driven by APAC growth.
-
-======================================================================
-FULL TEXT (plain)
-======================================================================
-Good morning everyone, thank you for joining today's call...
-```
+[Sample transcription report](output-transcription/Homeless_In_Athens_1B_20260427_212106_transcription.txt)
 
 ### Translation (`output-translated/`)
 Plain translated text, sentence-chunked and reassembled.
 
+[Sample translated output](output-translated/Ninja_Teacher_20260428_093825_translated.txt)
+
 ### Summary (`output-summary/`)
 LLM-generated structured summary following the selected prompt template — typically bullet-point format with decisions, action items, owners, and deadlines.
+
+[Sample summary](output-summary/Ninja_Teacher_20260428_093825_summary.txt)
 
 ---
 
@@ -370,10 +224,7 @@ Additional pairs can be added to `config.yaml` without code changes, provided th
 
 Logs are written to `logs/` with automatic rotation (10 MB per file, 5 backups retained).
 
-| Level | Use Case | What Is Recorded |
-|---|---|---|
-| `INFO` | Production | Pipeline milestones, file paths, timing, errors |
-| `DEBUG` | Troubleshooting | Per-chunk translation, VRAM stats, temp file paths, all API calls |
+[Sample logs](logs/streamlit_run.log)
 
 ---
 
@@ -389,7 +240,7 @@ Logs are written to `logs/` with automatic rotation (10 MB per file, 5 backups r
 
 ---
 
-## Future Roadmap — SaaS & Kubernetes
+## Future Roadmap - SaaS & Kubernetes
 
 The system is architecturally designed to migrate from a local desktop deployment to a containerised, multi-tenant SaaS platform. The planned Kubernetes architecture is illustrated below.
 

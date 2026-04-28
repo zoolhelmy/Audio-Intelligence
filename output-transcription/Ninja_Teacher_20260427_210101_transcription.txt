@@ -1,0 +1,1097 @@
+======================================================================
+AUDIO TRANSCRIPTION REPORT
+======================================================================
+File            : Ninja_Teacher.mp3
+Generated       : 2026-04-27 21:10:44
+Detected Language: EN
+Whisper Model   : medium
+Duration        : 00:32:13
+Total Segments  : 309
+======================================================================
+
+TRANSCRIPT
+----------------------------------------------------------------------
+[00:00:01 → 00:00:13]  SPEAKER 01
+  Hello, and welcome to a little extra bonus, fun, not serious mini story lesson.
+
+[00:00:13 → 00:00:18]  SPEAKER 01
+  I'm just doing this one for fun, so let's get started.
+
+[00:00:18 → 00:00:22]  SPEAKER 01
+  Now in the mini stories, I do only three things.
+
+[00:00:23 → 00:00:27]  SPEAKER 01
+  I will make a statement, which is I say a fact.
+
+[00:00:28 → 00:00:35]  SPEAKER 01
+  When I make a statement, your job is to sound interested or sound excited.
+
+[00:00:36 → 00:00:46]  SPEAKER 01
+  For example, I might say there was a boy and you say, oh, so interesting.
+
+[00:00:47 → 00:00:49]  SPEAKER 01
+  Number two, I will ask a question.
+
+[00:00:49 → 00:00:54]  SPEAKER 01
+  You know the answer when I ask a question, you know, you shout the answer.
+
+[00:00:55 → 00:00:58]  SPEAKER 01
+  For example, was there a boy?
+
+[00:00:59 → 00:01:01]  SPEAKER 01
+  Yes, you shout.
+
+[00:01:01 → 00:01:03]  SPEAKER 01
+  Yes, that's all so simple.
+
+[00:01:03 → 00:01:06]  SPEAKER 01
+  And finally, number three, I will ask a question.
+
+[00:01:06 → 00:01:07]  SPEAKER 01
+  You don't know the answer.
+
+[00:01:08 → 00:01:14]  SPEAKER 01
+  If you don't know the answer, shout a guess, just guess anything.
+
+[00:01:14 → 00:01:18]  SPEAKER 01
+  For example, what was the boy's name?
+
+[00:01:19 → 00:01:23]  SPEAKER 01
+  John, Bill, Billy, Fred.
+
+
+[00:01:25 → 00:01:28]  SPEAKER 02
+  No, no, no, no, no, the boy's name was AJ.
+
+
+[00:01:32 → 00:01:33]  SPEAKER 03
+  Okay, so that's very easy.
+
+[00:01:33 → 00:01:34]  SPEAKER 03
+  Let's start.
+
+[00:01:36 → 00:01:37]  SPEAKER 03
+  There was a man.
+
+
+[00:01:40 → 00:01:42]  SPEAKER 04
+  Was there a man?
+
+
+[00:01:44 → 00:01:44]  SPEAKER 05
+  Yes.
+
+[00:01:45 → 00:01:46]  SPEAKER 05
+  Great.
+
+[00:01:46 → 00:01:49]  SPEAKER 05
+  All right, what was the man's name?
+
+[00:01:49 → 00:01:54]  SPEAKER 05
+  Yes, I already told you the man's name was AJ.
+
+
+[00:01:55 → 00:01:59]  SPEAKER 06
+  Now, what was AJ?
+
+
+[00:02:01 → 00:02:04]  SPEAKER 07
+  Well, AJ was an English teacher.
+
+
+[00:02:06 → 00:02:07]  SPEAKER 08
+  Interesting.
+
+[00:02:08 → 00:02:11]  SPEAKER 08
+  And where did AJ live?
+
+
+[00:02:13 → 00:02:17]  SPEAKER 09
+  Well, he lived in San Francisco.
+
+[00:02:18 → 00:02:20]  SPEAKER 09
+  Ah, interesting.
+
+
+[00:02:24 → 00:02:26]  SPEAKER 10
+  Now, what about David Beckham?
+
+
+[00:02:28 → 00:02:30]  SPEAKER 11
+  What was David Beckham?
+
+
+[00:02:32 → 00:02:35]  SPEAKER 12
+  Well, David Beckham was a soccer player.
+
+[00:02:36 → 00:02:41]  SPEAKER 12
+  In American English, we say soccer player, British English football player.
+
+[00:02:41 → 00:02:44]  SPEAKER 12
+  I'm American, so I'll say soccer.
+
+[00:02:45 → 00:02:47]  SPEAKER 12
+  David Beckham was a soccer player.
+
+[00:02:48 → 00:02:49]  SPEAKER 12
+  Oh.
+
+
+[00:02:51 → 00:02:55]  SPEAKER 13
+  Where did David Beckham live?
+
+
+[00:02:57 → 00:02:59]  SPEAKER 14
+  He lived in Los Angeles.
+
+[00:03:00 → 00:03:01]  SPEAKER 14
+  Ah.
+
+[00:03:02 → 00:03:04]  SPEAKER 14
+  Did AJ live in Los Angeles?
+
+
+[00:03:06 → 00:03:07]  SPEAKER 15
+  No, he didn't, of course not.
+
+[00:03:07 → 00:03:09]  SPEAKER 15
+  AJ didn't live in Los Angeles.
+
+[00:03:10 → 00:03:13]  SPEAKER 15
+  AJ lived in San Francisco.
+
+
+[00:03:14 → 00:03:15]  SPEAKER 16
+  Where did Beckham live?
+
+
+[00:03:17 → 00:03:20]  SPEAKER 17
+  David Beckham lived in Los Angeles.
+
+[00:03:21 → 00:03:22]  SPEAKER 17
+  And where did AJ live?
+
+
+[00:03:24 → 00:03:27]  SPEAKER 18
+  AJ lived in San Francisco.
+
+[00:03:28 → 00:03:28]  SPEAKER 18
+  Ah.
+
+
+[00:03:30 → 00:03:40]  SPEAKER 19
+  Now, David Beckham had a problem when he was younger, before he became famous.
+
+
+[00:03:43 → 00:03:51]  SPEAKER 20
+  Did he have a problem before he became famous or after he became famous?
+
+[00:03:52 → 00:04:00]  SPEAKER 20
+  David Beckham had a problem before he became famous.
+
+[00:04:01 → 00:04:02]  SPEAKER 20
+  Hmm.
+
+
+[00:04:04 → 00:04:06]  SPEAKER 21
+  What was his problem?
+
+
+[00:04:09 → 00:04:13]  SPEAKER 22
+  Well, his problem was, before he became famous,
+
+[00:04:13 → 00:04:20]  SPEAKER 22
+  David Beckham had been bullied many times.
+
+
+[00:04:22 → 00:04:24]  SPEAKER 23
+  Oh, no, poor David.
+
+[00:04:25 → 00:04:31]  SPEAKER 23
+  Had he been bullied before he became famous or after he became famous?
+
+
+[00:04:33 → 00:04:34]  SPEAKER 24
+  Of course, before.
+
+[00:04:35 → 00:04:40]  SPEAKER 24
+  He had been bullied a lot before he became famous.
+
+[00:04:41 → 00:04:44]  SPEAKER 24
+  Of course, bullied. You know bullied, right?
+
+[00:04:45 → 00:04:48]  SPEAKER 24
+  To bully, usually children, they bully someone.
+
+[00:04:48 → 00:04:54]  SPEAKER 24
+  They say bad things to them or they push them or they try to fight them.
+
+[00:04:54 → 00:04:57]  SPEAKER 24
+  Usually a weaker child, right?
+
+[00:04:57 → 00:04:58]  SPEAKER 24
+  Maybe a smaller child.
+
+[00:04:59 → 00:05:02]  SPEAKER 24
+  And sometimes the big children will bully them.
+
+[00:05:02 → 00:05:07]  SPEAKER 24
+  The big children push them and yell at them and are very bad to them.
+
+[00:05:07 → 00:05:09]  SPEAKER 24
+  We call that bullying or too bully.
+
+[00:05:09 → 00:05:15]  SPEAKER 24
+  So poor David Beckham had been bullied a lot before he became famous.
+
+[00:05:16 → 00:05:19]  SPEAKER 24
+  Oh, no, poor David.
+
+[00:05:20 → 00:05:23]  SPEAKER 24
+  Now who had been bullied before he became famous?
+
+
+[00:05:25 → 00:05:26]  SPEAKER 25
+  AJ or David Beckham?
+
+
+[00:05:29 → 00:05:30]  SPEAKER 26
+  David Beckham, in fact.
+
+[00:05:31 → 00:05:34]  SPEAKER 26
+  David Beckham had been bullied a lot before he became famous.
+
+[00:05:36 → 00:05:41]  SPEAKER 26
+  Had AJ been bullied a lot before he became famous?
+
+
+[00:05:43 → 00:05:44]  SPEAKER 27
+  No, no, no.
+
+[00:05:44 → 00:05:46]  SPEAKER 27
+  AJ had never been bullied.
+
+
+[00:05:48 → 00:05:54]  SPEAKER 28
+  And in fact, all his life, he has never been bullied.
+
+[00:05:55 → 00:05:59]  SPEAKER 28
+  From baby until now, AJ has never been bullied.
+
+
+[00:06:02 → 00:06:06]  SPEAKER 29
+  Has David Beckham ever been bullied in all his life?
+
+
+[00:06:08 → 00:06:09]  SPEAKER 30
+  Yes, he has.
+
+
+[00:06:11 → 00:06:15]  SPEAKER 31
+  He had been bullied, in fact, before he became famous.
+
+[00:06:16 → 00:06:20]  SPEAKER 31
+  But after he became famous, never.
+
+
+[00:06:23 → 00:06:29]  SPEAKER 32
+  Was David Beckham bullied after he became famous?
+
+[00:06:30 → 00:06:32]  SPEAKER 32
+  No, no, no, never.
+
+[00:06:32 → 00:06:36]  SPEAKER 32
+  He was never bullied after he became famous.
+
+
+[00:06:39 → 00:06:40]  SPEAKER 33
+  So when was David Beckham bullied?
+
+
+[00:06:42 → 00:06:49]  SPEAKER 34
+  Well, he had been bullied a lot, many times, before he became famous.
+
+[00:06:50 → 00:06:52]  SPEAKER 34
+  I see, I see.
+
+[00:06:53 → 00:06:58]  SPEAKER 34
+  Now, who had bullied David Beckham?
+
+
+[00:07:01 → 00:07:08]  SPEAKER 35
+  Who had bullied him before he became famous?
+
+
+[00:07:11 → 00:07:13]  SPEAKER 36
+  Well, obviously, it was Julia Roberts.
+
+[00:07:14 → 00:07:20]  SPEAKER 36
+  Julia Roberts had bullied him many, many, many times.
+
+[00:07:20 → 00:07:22]  SPEAKER 36
+  She bullied him a lot.
+
+
+[00:07:26 → 00:07:29]  SPEAKER 37
+  Now, when did this happen?
+
+
+[00:07:31 → 00:07:37]  SPEAKER 38
+  Well, it happened before David Beckham became famous.
+
+
+[00:07:39 → 00:07:44]  SPEAKER 39
+  Before David Beckham became famous, Julia Roberts had bullied him many times.
+
+
+[00:07:47 → 00:07:51]  SPEAKER 40
+  Now, after he became famous, did she bully him?
+
+
+[00:07:52 → 00:07:54]  SPEAKER 41
+  No, she didn't.
+
+[00:07:54 → 00:07:59]  SPEAKER 41
+  She did not bully David Beckham after he became famous.
+
+[00:07:59 → 00:08:02]  SPEAKER 41
+  When had she bullied him?
+
+[00:08:03 → 00:08:07]  SPEAKER 41
+  Well, she had bullied him before he became famous.
+
+
+[00:08:08 → 00:08:10]  SPEAKER 42
+  So, why?
+
+[00:08:11 → 00:08:14]  SPEAKER 42
+  Why did she stop?
+
+
+[00:08:17 → 00:08:25]  SPEAKER 43
+  Well, she stopped because after he became famous, David Beckham got a bodyguard.
+
+
+[00:08:28 → 00:08:34]  SPEAKER 44
+  Why did David Beckham get a bodyguard after he became famous?
+
+
+[00:08:37 → 00:08:40]  SPEAKER 45
+  Well, because he was rich.
+
+[00:08:41 → 00:08:49]  SPEAKER 45
+  Bodyguards are very, very expensive, and he got a special bodyguard.
+
+
+[00:08:52 → 00:08:56]  SPEAKER 46
+  What kind of bodyguard did David Beckham get?
+
+
+[00:08:58 → 00:09:04]  SPEAKER 47
+  He got a ninja bodyguard. A ninja bodyguard.
+
+[00:09:05 → 00:09:08]  SPEAKER 47
+  So, what's a ninja bodyguard?
+
+[00:09:09 → 00:09:13]  SPEAKER 47
+  Well, a ninja is a special Japanese fighter.
+
+[00:09:14 → 00:09:17]  SPEAKER 47
+  They're very fast, very strong.
+
+[00:09:18 → 00:09:26]  SPEAKER 47
+  So, what kind of bodyguard did David Beckham get after he became famous?
+
+
+[00:09:28 → 00:09:30]  SPEAKER 48
+  He got a ninja bodyguard.
+
+[00:09:31 → 00:09:36]  SPEAKER 48
+  Who got a ninja bodyguard after he became famous?
+
+
+[00:09:38 → 00:09:43]  SPEAKER 49
+  David Beckham. David Beckham got a ninja bodyguard after he became famous.
+
+
+[00:09:45 → 00:09:46]  SPEAKER 50
+  Are ninja bodyguards cheap?
+
+
+[00:09:49 → 00:09:54]  SPEAKER 51
+  No, of course not. They are super, super expensive, obviously.
+
+
+[00:09:56 → 00:10:04]  SPEAKER 52
+  So, why did Julia Roberts stop bullying David Beckham?
+
+
+[00:10:06 → 00:10:14]  SPEAKER 53
+  She stopped bullying him because he got a super expensive ninja bodyguard.
+
+[00:10:16 → 00:10:18]  SPEAKER 53
+  Ah, I see.
+
+
+[00:10:19 → 00:10:24]  SPEAKER 54
+  Had she bullied him before he was famous?
+
+[00:10:24 → 00:10:31]  SPEAKER 54
+  Of course, yes, she had. She had bullied him a lot before he was famous,
+
+[00:10:31 → 00:10:37]  SPEAKER 54
+  but after he got a bodyguard, and she never bullied him again.
+
+
+[00:10:40 → 00:10:48]  SPEAKER 55
+  What about AJ? Did AJ get a ninja bodyguard?
+
+
+[00:10:50 → 00:10:59]  SPEAKER 56
+  Class, no, of course not. Obviously, AJ did not get a ninja bodyguard. Why not?
+
+
+[00:11:01 → 00:11:11]  SPEAKER 57
+  Well, obviously, everybody knows AJ already was a ninja bodyguard. AJ was a ninja.
+
+
+[00:11:13 → 00:11:19]  SPEAKER 58
+  Ah, but wait, I'm confused. AJ was an English teacher, right?
+
+[00:11:20 → 00:11:27]  SPEAKER 58
+  Yes, AJ was an English teacher, of course, but, class, this is special information.
+
+
+[00:11:30 → 00:11:38]  SPEAKER 59
+  Before he was an English teacher, AJ had been a ninja bodyguard.
+
+[00:11:39 → 00:11:46]  SPEAKER 59
+  Ah, yeah, very interesting, right? When had he been a ninja?
+
+
+[00:11:49 → 00:11:56]  SPEAKER 60
+  Well, in fact, AJ, he's always a ninja. He always has the ninja ability.
+
+[00:11:57 → 00:12:05]  SPEAKER 60
+  But, he had been a ninja bodyguard. His job was bodyguard.
+
+[00:12:05 → 00:12:12]  SPEAKER 60
+  He had been a ninja bodyguard before he was an English teacher.
+
+[00:12:12 → 00:12:15]  SPEAKER 60
+  Ah, yes, of course, interesting.
+
+
+[00:12:16 → 00:12:25]  SPEAKER 61
+  What had AJ been before he became an English teacher?
+
+
+[00:12:27 → 00:12:32]  SPEAKER 62
+  Well, he had been a ninja bodyguard.
+
+[00:12:33 → 00:12:42]  SPEAKER 62
+  How long had he been a ninja bodyguard before he became an English teacher?
+
+
+[00:12:45 → 00:12:48]  SPEAKER 63
+  Well, about 12 years, actually, yes.
+
+[00:12:48 → 00:13:01]  SPEAKER 63
+  AJ had been a ninja bodyguard for about 12 years before he got a new job and became an English teacher.
+
+[00:13:01 → 00:13:03]  SPEAKER 63
+  Ah, obviously.
+
+
+[00:13:06 → 00:13:16]  SPEAKER 64
+  Now, David Beckham, before he became a soccer player, a famous soccer player, what had he been?
+
+
+[00:13:20 → 00:13:24]  SPEAKER 65
+  Well, everybody knows David Beckham's story, so you probably know also.
+
+[00:13:24 → 00:13:36]  SPEAKER 65
+  Before he became a famous soccer player, David Beckham had been a pizza boy.
+
+[00:13:36 → 00:13:40]  SPEAKER 65
+  Yes, it's true, a pizza boy. He made pizza.
+
+[00:13:41 → 00:13:53]  SPEAKER 65
+  Ah, for how many years had he been a pizza boy before he became a famous soccer player?
+
+
+[00:13:54 → 00:13:57]  SPEAKER 66
+  Ah, for about six years.
+
+[00:13:57 → 00:14:09]  SPEAKER 66
+  David Beckham had been a pizza boy for six years before he became a famous soccer player.
+
+
+[00:14:11 → 00:14:19]  SPEAKER 67
+  So when he was a pizza boy, had he been picked on a lot?
+
+[00:14:20 → 00:14:26]  SPEAKER 67
+  Had he been bullied? I'm sorry, picked on means bullied. It's the same meaning.
+
+[00:14:26 → 00:14:33]  SPEAKER 67
+  So to pick on someone and to bully someone, it's the same meaning.
+
+[00:14:34 → 00:14:41]  SPEAKER 67
+  So had he been picked on when he was a pizza boy?
+
+
+[00:14:43 → 00:14:49]  SPEAKER 68
+  Yes, he had. He had been bullied. He had been picked on a lot when he was a pizza boy.
+
+[00:14:49 → 00:14:53]  SPEAKER 68
+  Who had picked on him at that time?
+
+
+[00:14:56 → 00:14:56]  SPEAKER 69
+  Julia Roberts.
+
+[00:14:57 → 00:15:08]  SPEAKER 69
+  Julia Roberts had picked on him many times before he became a famous soccer player.
+
+
+[00:15:10 → 00:15:14]  SPEAKER 70
+  Now, after he became a soccer player, what happened?
+
+
+[00:15:16 → 00:15:20]  SPEAKER 71
+  Of course, he got a ninja bodyguard.
+
+
+[00:15:23 → 00:15:32]  SPEAKER 72
+  Did Julia Roberts continue to pick on or to bully him after he became a famous soccer player?
+
+
+[00:15:34 → 00:15:40]  SPEAKER 73
+  No, no, no, no, no, she didn't. She did not continue to bully him. Why not?
+
+[00:15:41 → 00:15:48]  SPEAKER 73
+  Because he got a strong, powerful ninja bodyguard.
+
+
+[00:15:50 → 00:15:55]  SPEAKER 74
+  And who was his ninja bodyguard, obviously, class?
+
+[00:15:55 → 00:15:57]  SPEAKER 74
+  That's right, AJ.
+
+
+[00:16:00 → 00:16:06]  SPEAKER 75
+  AJ had been David Beckham's ninja bodyguard.
+
+
+[00:16:08 → 00:16:13]  SPEAKER 76
+  Is AJ David Beckham's ninja bodyguard right now?
+
+
+[00:16:15 → 00:16:17]  SPEAKER 77
+  No, no, of course not. Why not?
+
+
+[00:16:19 → 00:16:23]  SPEAKER 78
+  Well, because now AJ is an English teacher.
+
+[00:16:24 → 00:16:26]  SPEAKER 78
+  AJ is not a bodyguard now.
+
+[00:16:27 → 00:16:35]  SPEAKER 78
+  But in the past, had he been David Beckham's ninja bodyguard?
+
+[00:16:36 → 00:16:42]  SPEAKER 78
+  Yes, he had. He had been David Beckham's ninja bodyguard.
+
+[00:16:44 → 00:16:47]  SPEAKER 78
+  But then AJ became an English teacher.
+
+
+[00:16:52 → 00:16:57]  SPEAKER 79
+  So, he became an English teacher and is AJ still an English teacher now?
+
+[00:16:58 → 00:17:01]  SPEAKER 79
+  Yes, he is. He's still an English teacher now.
+
+[00:17:01 → 00:17:05]  SPEAKER 79
+  So, he had been David Beckham's ninja bodyguard.
+
+
+[00:17:07 → 00:17:11]  SPEAKER 80
+  Then he became an English teacher.
+
+[00:17:12 → 00:17:16]  SPEAKER 80
+  And now AJ is still an English teacher.
+
+[00:17:17 → 00:17:21]  SPEAKER 80
+  Ah, yeah, very complicated story, but you understand, right?
+
+[00:17:23 → 00:17:26]  SPEAKER 80
+  Now, what about Julia Roberts?
+
+
+[00:17:28 → 00:17:37]  SPEAKER 81
+  Why had Julia Roberts picked on poor little David Beckham?
+
+
+[00:17:39 → 00:17:40]  SPEAKER 82
+  Why?
+
+
+[00:17:42 → 00:17:55]  SPEAKER 83
+  Well, because Julia Roberts had had many bad experiences when she was young.
+
+[00:17:55 → 00:17:59]  SPEAKER 83
+  Ah, poor Julia. Yeah, many people don't know this.
+
+[00:17:59 → 00:18:01]  SPEAKER 83
+  This is extra special information.
+
+
+[00:18:03 → 00:18:09]  SPEAKER 84
+  She had a lot of bad experiences when she was a child.
+
+
+[00:18:11 → 00:18:15]  SPEAKER 85
+  For example, she had a cat when she was a child.
+
+[00:18:15 → 00:18:17]  SPEAKER 85
+  Julia Roberts had a cat, a small cat.
+
+
+[00:18:20 → 00:18:24]  SPEAKER 86
+  What did Julia Roberts have when she was a child?
+
+
+[00:18:25 → 00:18:27]  SPEAKER 87
+  Well, she had a cat.
+
+[00:18:29 → 00:18:35]  SPEAKER 87
+  What kind of cat did Julia Roberts have when she was a child?
+
+
+[00:18:37 → 00:18:45]  SPEAKER 88
+  Well, she had a very nice, sweet, loving cat.
+
+[00:18:46 → 00:18:48]  SPEAKER 88
+  Oh, that's very nice.
+
+[00:18:48 → 00:18:51]  SPEAKER 88
+  What was her cat's name?
+
+
+[00:18:53 → 00:18:57]  SPEAKER 89
+  Her cat's name was Susie. Susie.
+
+[00:18:58 → 00:19:01]  SPEAKER 89
+  Julia Roberts' cat was Susie.
+
+[00:19:01 → 00:19:07]  SPEAKER 89
+  Ah, was Julia Roberts' cat very kind, very nice?
+
+
+[00:19:08 → 00:19:13]  SPEAKER 90
+  Yes, yes, Julia Roberts' cat was very sweet, very nice.
+
+[00:19:15 → 00:19:17]  SPEAKER 90
+  But, class, there was a problem.
+
+
+[00:19:19 → 00:19:24]  SPEAKER 91
+  Before she had the cat, Julia Roberts had a dog.
+
+
+[00:19:26 → 00:19:30]  SPEAKER 92
+  Yeah, before she had the cat, she had a dog.
+
+
+[00:19:33 → 00:19:38]  SPEAKER 93
+  And had this dog been kind and sweet and nice?
+
+
+[00:19:40 → 00:19:44]  SPEAKER 94
+  No, no, class. This dog had not been sweet and nice.
+
+[00:19:44 → 00:19:51]  SPEAKER 94
+  This dog had been very, very mean, unkind.
+
+
+[00:19:53 → 00:19:57]  SPEAKER 95
+  And what kind of dog was it?
+
+
+[00:19:59 → 00:20:00]  SPEAKER 96
+  Class, it was a German dog.
+
+[00:20:01 → 00:20:07]  SPEAKER 96
+  It was a German dog, a very bad, mean, terrible German dog.
+
+
+[00:20:09 → 00:20:21]  SPEAKER 97
+  And this dog that she had had before her cat, what had she named it?
+
+
+[00:20:24 → 00:20:29]  SPEAKER 98
+  She had named it Fritz. Yeah, Fritz. Fritz the dog.
+
+[00:20:31 → 00:20:33]  SPEAKER 98
+  So, let's review.
+
+[00:20:34 → 00:20:37]  SPEAKER 98
+  When she was young, she had a cat.
+
+[00:20:38 → 00:20:40]  SPEAKER 98
+  What was the cat's name?
+
+
+[00:20:41 → 00:20:43]  SPEAKER 99
+  That's right, Susie.
+
+[00:20:43 → 00:20:45]  SPEAKER 99
+  Julia Roberts' cat was Susie.
+
+[00:20:46 → 00:20:52]  SPEAKER 99
+  And before she had the cat, she had had a dog.
+
+
+[00:20:55 → 00:20:57]  SPEAKER 100
+  What was its name?
+
+
+[00:20:59 → 00:21:00]  SPEAKER 101
+  Fritz, that's right, Fritz.
+
+[00:21:00 → 00:21:08]  SPEAKER 101
+  So, before she had Susie the cat, she had had Fritz the German dog.
+
+
+[00:21:11 → 00:21:16]  SPEAKER 102
+  What kind of dog had Fritz been or was he?
+
+[00:21:17 → 00:21:19]  SPEAKER 102
+  We can say either one. Both are correct.
+
+
+[00:21:21 → 00:21:27]  SPEAKER 103
+  Well, he was a very mean, terrible dog. Yeah.
+
+[00:21:28 → 00:21:46]  SPEAKER 103
+  So, what had he done to Julia to make Julia become angry and mean and terrible?
+
+
+[00:21:48 → 00:21:56]  SPEAKER 104
+  Well, of course, Fritz had bullied poor Julia when she was very young.
+
+[00:21:57 → 00:22:04]  SPEAKER 104
+  He had bullied Julia again and again and again for many years.
+
+
+[00:22:06 → 00:22:10]  SPEAKER 105
+  Why had Fritz bullied Julia?
+
+
+[00:22:13 → 00:22:19]  SPEAKER 106
+  Well, of course, because he was German. He was a German dog. That's why.
+
+
+[00:22:21 → 00:22:23]  SPEAKER 107
+  German students don't get angry. It's just a joke.
+
+
+[00:22:26 → 00:22:27]  SPEAKER 108
+  Just joking.
+
+
+[00:22:29 → 00:22:31]  SPEAKER 109
+  So, why had he bullied Julia?
+
+[00:22:33 → 00:22:37]  SPEAKER 109
+  Well, of course, because Fritz was a German dog.
+
+[00:22:38 → 00:22:45]  SPEAKER 109
+  Now, had Susie the cat bullied Julia before?
+
+[00:22:45 → 00:22:55]  SPEAKER 109
+  No, no, no. Susie the cat had never bullied Julia.
+
+[00:22:55 → 00:22:57]  SPEAKER 109
+  Susie the cat was always kind.
+
+[00:22:58 → 00:23:09]  SPEAKER 109
+  But before Susie the cat, Fritz had bullied Julia Roberts many, many times.
+
+
+[00:23:11 → 00:23:21]  SPEAKER 110
+  And so, Julia Roberts also became very mean, very tough, very bad.
+
+
+[00:23:23 → 00:23:26]  SPEAKER 111
+  And later, what did Julia Roberts do?
+
+
+[00:23:28 → 00:23:35]  SPEAKER 112
+  That's right. Bullied David Beckham. She bullied poor David Beckham.
+
+
+[00:23:37 → 00:23:44]  SPEAKER 113
+  Had David Beckham been bullied before he met Julia Roberts?
+
+
+[00:23:47 → 00:23:56]  SPEAKER 114
+  No, no, no. Before he met Julia Roberts, he had never been bullied. Everyone was always very nice to him.
+
+[00:23:57 → 00:24:02]  SPEAKER 114
+  Then he met Julia Roberts and she bullied him a lot.
+
+
+[00:24:04 → 00:24:10]  SPEAKER 115
+  So, before he met Julia Roberts, had he been bullied?
+
+
+[00:24:11 → 00:24:12]  SPEAKER 116
+  No.
+
+
+[00:24:14 → 00:24:19]  SPEAKER 117
+  Who had never been bullied before he met Julia Roberts?
+
+
+[00:24:22 → 00:24:29]  SPEAKER 118
+  David Beckham. David Beckham had never been bullied before he met Julia Roberts.
+
+
+[00:24:32 → 00:24:35]  SPEAKER 119
+  Was he bullied after he met her?
+
+
+[00:24:37 → 00:24:42]  SPEAKER 120
+  Yes, he was. He was bullied a lot after he met Julia Roberts.
+
+
+[00:24:45 → 00:24:51]  SPEAKER 121
+  Was he bullied after he got AJ, the ninja bodyguard?
+
+[00:24:52 → 00:25:00]  SPEAKER 121
+  No, no, no, no, no. He was never bullied again after he got AJ, the ninja bodyguard.
+
+
+[00:25:05 → 00:25:09]  SPEAKER 122
+  Had AJ ever been bullied?
+
+
+[00:25:11 → 00:25:18]  SPEAKER 123
+  No, no, no. AJ, in the past, AJ had never been bullied.
+
+[00:25:18 → 00:25:24]  SPEAKER 123
+  Not when he was young, not when he was 20, not when he was 30. He had never been bullied.
+
+
+[00:25:27 → 00:25:33]  SPEAKER 124
+  And what about David Beckham? Had David Beckham ever been bullied in the past?
+
+[00:25:34 → 00:25:39]  SPEAKER 124
+  Yes, he had. He had been bullied in the past. When had he been bullied?
+
+
+[00:25:42 → 00:25:50]  SPEAKER 125
+  Well, after he met Julia Roberts, but before he got AJ, the bodyguard.
+
+[00:25:51 → 00:25:53]  SPEAKER 125
+  I see. Interesting.
+
+
+[00:25:55 → 00:25:59]  SPEAKER 126
+  And had Julia Roberts ever been bullied?
+
+[00:25:59 → 00:26:05]  SPEAKER 126
+  Yes, she had. She had been bullied. When was she bullied?
+
+
+[00:26:07 → 00:26:17]  SPEAKER 127
+  Well, she was bullied when she had Fritz, the German dog.
+
+
+[00:26:20 → 00:26:26]  SPEAKER 128
+  Had Julia Roberts been bullied before she had Fritz?
+
+[00:26:27 → 00:26:34]  SPEAKER 128
+  No, no, no, no. Before she got Fritz, the German dog, she had never been bullied in her life.
+
+[00:26:35 → 00:26:40]  SPEAKER 128
+  But after she got Fritz, she got bullied all the time.
+
+
+[00:26:43 → 00:26:47]  SPEAKER 129
+  Poor Julia. Poor David Beckham.
+
+
+[00:26:49 → 00:26:54]  SPEAKER 130
+  And poor AJ? Had AJ been bullied ever before?
+
+[00:26:55 → 00:27:02]  SPEAKER 130
+  No, no, no, no. AJ had never been bullied before. Why not?
+
+
+[00:27:05 → 00:27:11]  SPEAKER 131
+  Well, of course, because AJ was a ninja. Obviously.
+
+
+[00:27:13 → 00:27:15]  SPEAKER 132
+  Was AJ an English teacher?
+
+
+[00:27:17 → 00:27:25]  SPEAKER 133
+  Yes, yes. AJ was an English teacher. But before he was an English teacher, he had been a ninja bodyguard.
+
+
+[00:27:29 → 00:27:35]  SPEAKER 134
+  And where had AJ learned how to be a ninja?
+
+
+[00:27:38 → 00:27:44]  SPEAKER 135
+  Well, well. He learned it in Japan, of course. Where did he study to be a ninja?
+
+[00:27:45 → 00:27:47]  SPEAKER 135
+  In Japan.
+
+
+[00:27:50 → 00:27:55]  SPEAKER 136
+  When did he study to be a ninja in Japan?
+
+
+[00:27:57 → 00:28:10]  SPEAKER 137
+  When he was two years old. When he was two years old, AJ bought a plane ticket and he flew to Japan.
+
+[00:28:11 → 00:28:12]  SPEAKER 137
+  Ah.
+
+
+[00:28:15 → 00:28:22]  SPEAKER 138
+  Now, did AJ's mother and father go with him to Japan?
+
+
+[00:28:24 → 00:28:30]  SPEAKER 139
+  No, of course not. Of course not. No. AJ went alone. AJ went alone to Japan.
+
+[00:28:32 → 00:28:34]  SPEAKER 139
+  Why did AJ go to Japan?
+
+
+[00:28:36 → 00:28:43]  SPEAKER 140
+  He went to Japan to become a ninja. To study to be a ninja. Ah.
+
+[00:28:44 → 00:28:52]  SPEAKER 140
+  And when did he do that? When he was two years old.
+
+
+[00:28:56 → 00:29:00]  SPEAKER 141
+  So, before he was two years old, had AJ been a ninja?
+
+[00:29:01 → 00:29:03]  SPEAKER 141
+  Had he been a ninja when he was one?
+
+
+[00:29:04 → 00:29:11]  SPEAKER 142
+  No, no, no, no. He had not been a ninja then. But when he was two, he traveled to Japan.
+
+
+[00:29:14 → 00:29:15]  SPEAKER 143
+  Why did he go to Japan?
+
+[00:29:16 → 00:29:22]  SPEAKER 143
+  To become a ninja. Ah, of course.
+
+
+[00:29:24 → 00:29:27]  SPEAKER 144
+  Where in Japan did he go?
+
+
+[00:29:29 → 00:29:34]  SPEAKER 145
+  Well, he went to Kyoto. He went to Kyoto City, Japan.
+
+
+[00:29:37 → 00:29:39]  SPEAKER 146
+  Who went to Kyoto?
+
+
+[00:29:41 → 00:29:44]  SPEAKER 147
+  AJ went to Kyoto.
+
+[00:29:45 → 00:29:49]  SPEAKER 147
+  How old was AJ when he went to Kyoto?
+
+
+[00:29:52 → 00:29:56]  SPEAKER 148
+  That's right. He was two years old when he went to Kyoto.
+
+
+[00:29:58 → 00:29:59]  SPEAKER 149
+  And why did he go to Kyoto?
+
+
+[00:30:01 → 00:30:06]  SPEAKER 150
+  He went to Kyoto to learn how to be a ninja.
+
+
+[00:30:09 → 00:30:11]  SPEAKER 151
+  And why did he want to be a ninja?
+
+
+[00:30:13 → 00:30:25]  SPEAKER 152
+  Of course, he wanted to be a ninja so he could help people and be a bodyguard. Ah.
+
+
+[00:30:29 → 00:30:34]  SPEAKER 153
+  Okay, class. That is the end of part one of this story.
+
+[00:30:34 → 00:30:36]  SPEAKER 153
+  I hope you enjoyed it.
+
+[00:30:36 → 00:30:44]  SPEAKER 153
+  Now you can see this is a very simple, funny, totally not serious story.
+
+[00:30:45 → 00:30:51]  SPEAKER 153
+  But in this story, you are practicing a lot of things. Mostly in this story you are practicing some grammar.
+
+
+[00:30:53 → 00:31:03]  SPEAKER 154
+  Probably you noticed in this story I used the phrases had been, had gone, had been bullied.
+
+[00:31:05 → 00:31:10]  SPEAKER 154
+  Now, if you know grammar, unfortunately, you know that's the past perfect.
+
+[00:31:10 → 00:31:14]  SPEAKER 154
+  But don't think about that. You know, with effortless English, don't think about the grammar rules.
+
+[00:31:14 → 00:31:26]  SPEAKER 154
+  All you need to know is that just by listening to the story, by shouting the answers, by understanding the meaning of the story, you are improving your grammar.
+
+[00:31:26 → 00:31:33]  SPEAKER 154
+  And I chose this grammar because a lot of students have problems with this grammar point.
+
+[00:31:34 → 00:31:41]  SPEAKER 154
+  A lot of students say that it's difficult. But it's not difficult. The problem is you just need to hear it more.
+
+[00:31:42 → 00:31:46]  SPEAKER 154
+  You need to hear it in real situations so you begin to understand the meaning better.
+
+[00:31:47 → 00:31:50]  SPEAKER 154
+  You need more repetition. You need more deep learning.
+
+[00:31:50 → 00:31:58]  SPEAKER 154
+  So, all you need to do is listen to the story again and again and again. Listen to it every day for one week or two weeks.
+
+[00:31:59 → 00:32:05]  SPEAKER 154
+  Shout your answers. Laugh and enjoy the story. That's all you need to do. Do that and your grammar will improve.
+
+[00:32:06 → 00:32:11]  SPEAKER 154
+  Alright, so I hope you enjoyed this little extra bonus story. I'll see you again. Bye bye.
+
+[00:32:11 → 00:32:13]  SPEAKER 154
+  This is AJ Hogue with Effortless English.
+
+======================================================================
+FULL TEXT (plain)
+======================================================================
+Hello, and welcome to a little extra bonus, fun, not serious mini story lesson. I'm just doing this one for fun, so let's get started. Now in the mini stories, I do only three things. I will make a statement, which is I say a fact. When I make a statement, your job is to sound interested or sound excited. For example, I might say there was a boy and you say, oh, so interesting. Number two, I will ask a question. You know the answer when I ask a question, you know, you shout the answer. For example, was there a boy? Yes, you shout. Yes, that's all so simple. And finally, number three, I will ask a question. You don't know the answer. If you don't know the answer, shout a guess, just guess anything. For example, what was the boy's name? John, Bill, Billy, Fred. No, no, no, no, no, the boy's name was AJ. Okay, so that's very easy. Let's start. There was a man. Was there a man? Yes. Great. All right, what was the man's name? Yes, I already told you the man's name was AJ. Now, what was AJ? Well, AJ was an English teacher. Interesting. And where did AJ live? Well, he lived in San Francisco. Ah, interesting. Now, what about David Beckham? What was David Beckham? Well, David Beckham was a soccer player. In American English, we say soccer player, British English football player. I'm American, so I'll say soccer. David Beckham was a soccer player. Oh. Where did David Beckham live? He lived in Los Angeles. Ah. Did AJ live in Los Angeles? No, he didn't, of course not. AJ didn't live in Los Angeles. AJ lived in San Francisco. Where did Beckham live? David Beckham lived in Los Angeles. And where did AJ live? AJ lived in San Francisco. Ah. Now, David Beckham had a problem when he was younger, before he became famous. Did he have a problem before he became famous or after he became famous? David Beckham had a problem before he became famous. Hmm. What was his problem? Well, his problem was, before he became famous, David Beckham had been bullied many times. Oh, no, poor David. Had he been bullied before he became famous or after he became famous? Of course, before. He had been bullied a lot before he became famous. Of course, bullied. You know bullied, right? To bully, usually children, they bully someone. They say bad things to them or they push them or they try to fight them. Usually a weaker child, right? Maybe a smaller child. And sometimes the big children will bully them. The big children push them and yell at them and are very bad to them. We call that bullying or too bully. So poor David Beckham had been bullied a lot before he became famous. Oh, no, poor David. Now who had been bullied before he became famous? AJ or David Beckham? David Beckham, in fact. David Beckham had been bullied a lot before he became famous. Had AJ been bullied a lot before he became famous? No, no, no. AJ had never been bullied. And in fact, all his life, he has never been bullied. From baby until now, AJ has never been bullied. Has David Beckham ever been bullied in all his life? Yes, he has. He had been bullied, in fact, before he became famous. But after he became famous, never. Was David Beckham bullied after he became famous? No, no, no, never. He was never bullied after he became famous. So when was David Beckham bullied? Well, he had been bullied a lot, many times, before he became famous. I see, I see. Now, who had bullied David Beckham? Who had bullied him before he became famous? Well, obviously, it was Julia Roberts. Julia Roberts had bullied him many, many, many times. She bullied him a lot. Now, when did this happen? Well, it happened before David Beckham became famous. Before David Beckham became famous, Julia Roberts had bullied him many times. Now, after he became famous, did she bully him? No, she didn't. She did not bully David Beckham after he became famous. When had she bullied him? Well, she had bullied him before he became famous. So, why? Why did she stop? Well, she stopped because after he became famous, David Beckham got a bodyguard. Why did David Beckham get a bodyguard after he became famous? Well, because he was rich. Bodyguards are very, very expensive, and he got a special bodyguard. What kind of bodyguard did David Beckham get? He got a ninja bodyguard. A ninja bodyguard. So, what's a ninja bodyguard? Well, a ninja is a special Japanese fighter. They're very fast, very strong. So, what kind of bodyguard did David Beckham get after he became famous? He got a ninja bodyguard. Who got a ninja bodyguard after he became famous? David Beckham. David Beckham got a ninja bodyguard after he became famous. Are ninja bodyguards cheap? No, of course not. They are super, super expensive, obviously. So, why did Julia Roberts stop bullying David Beckham? She stopped bullying him because he got a super expensive ninja bodyguard. Ah, I see. Had she bullied him before he was famous? Of course, yes, she had. She had bullied him a lot before he was famous, but after he got a bodyguard, and she never bullied him again. What about AJ? Did AJ get a ninja bodyguard? Class, no, of course not. Obviously, AJ did not get a ninja bodyguard. Why not? Well, obviously, everybody knows AJ already was a ninja bodyguard. AJ was a ninja. Ah, but wait, I'm confused. AJ was an English teacher, right? Yes, AJ was an English teacher, of course, but, class, this is special information. Before he was an English teacher, AJ had been a ninja bodyguard. Ah, yeah, very interesting, right? When had he been a ninja? Well, in fact, AJ, he's always a ninja. He always has the ninja ability. But, he had been a ninja bodyguard. His job was bodyguard. He had been a ninja bodyguard before he was an English teacher. Ah, yes, of course, interesting. What had AJ been before he became an English teacher? Well, he had been a ninja bodyguard. How long had he been a ninja bodyguard before he became an English teacher? Well, about 12 years, actually, yes. AJ had been a ninja bodyguard for about 12 years before he got a new job and became an English teacher. Ah, obviously. Now, David Beckham, before he became a soccer player, a famous soccer player, what had he been? Well, everybody knows David Beckham's story, so you probably know also. Before he became a famous soccer player, David Beckham had been a pizza boy. Yes, it's true, a pizza boy. He made pizza. Ah, for how many years had he been a pizza boy before he became a famous soccer player? Ah, for about six years. David Beckham had been a pizza boy for six years before he became a famous soccer player. So when he was a pizza boy, had he been picked on a lot? Had he been bullied? I'm sorry, picked on means bullied. It's the same meaning. So to pick on someone and to bully someone, it's the same meaning. So had he been picked on when he was a pizza boy? Yes, he had. He had been bullied. He had been picked on a lot when he was a pizza boy. Who had picked on him at that time? Julia Roberts. Julia Roberts had picked on him many times before he became a famous soccer player. Now, after he became a soccer player, what happened? Of course, he got a ninja bodyguard. Did Julia Roberts continue to pick on or to bully him after he became a famous soccer player? No, no, no, no, no, she didn't. She did not continue to bully him. Why not? Because he got a strong, powerful ninja bodyguard. And who was his ninja bodyguard, obviously, class? That's right, AJ. AJ had been David Beckham's ninja bodyguard. Is AJ David Beckham's ninja bodyguard right now? No, no, of course not. Why not? Well, because now AJ is an English teacher. AJ is not a bodyguard now. But in the past, had he been David Beckham's ninja bodyguard? Yes, he had. He had been David Beckham's ninja bodyguard. But then AJ became an English teacher. So, he became an English teacher and is AJ still an English teacher now? Yes, he is. He's still an English teacher now. So, he had been David Beckham's ninja bodyguard. Then he became an English teacher. And now AJ is still an English teacher. Ah, yeah, very complicated story, but you understand, right? Now, what about Julia Roberts? Why had Julia Roberts picked on poor little David Beckham? Why? Well, because Julia Roberts had had many bad experiences when she was young. Ah, poor Julia. Yeah, many people don't know this. This is extra special information. She had a lot of bad experiences when she was a child. For example, she had a cat when she was a child. Julia Roberts had a cat, a small cat. What did Julia Roberts have when she was a child? Well, she had a cat. What kind of cat did Julia Roberts have when she was a child? Well, she had a very nice, sweet, loving cat. Oh, that's very nice. What was her cat's name? Her cat's name was Susie. Susie. Julia Roberts' cat was Susie. Ah, was Julia Roberts' cat very kind, very nice? Yes, yes, Julia Roberts' cat was very sweet, very nice. But, class, there was a problem. Before she had the cat, Julia Roberts had a dog. Yeah, before she had the cat, she had a dog. And had this dog been kind and sweet and nice? No, no, class. This dog had not been sweet and nice. This dog had been very, very mean, unkind. And what kind of dog was it? Class, it was a German dog. It was a German dog, a very bad, mean, terrible German dog. And this dog that she had had before her cat, what had she named it? She had named it Fritz. Yeah, Fritz. Fritz the dog. So, let's review. When she was young, she had a cat. What was the cat's name? That's right, Susie. Julia Roberts' cat was Susie. And before she had the cat, she had had a dog. What was its name? Fritz, that's right, Fritz. So, before she had Susie the cat, she had had Fritz the German dog. What kind of dog had Fritz been or was he? We can say either one. Both are correct. Well, he was a very mean, terrible dog. Yeah. So, what had he done to Julia to make Julia become angry and mean and terrible? Well, of course, Fritz had bullied poor Julia when she was very young. He had bullied Julia again and again and again for many years. Why had Fritz bullied Julia? Well, of course, because he was German. He was a German dog. That's why. German students don't get angry. It's just a joke. Just joking. So, why had he bullied Julia? Well, of course, because Fritz was a German dog. Now, had Susie the cat bullied Julia before? No, no, no. Susie the cat had never bullied Julia. Susie the cat was always kind. But before Susie the cat, Fritz had bullied Julia Roberts many, many times. And so, Julia Roberts also became very mean, very tough, very bad. And later, what did Julia Roberts do? That's right. Bullied David Beckham. She bullied poor David Beckham. Had David Beckham been bullied before he met Julia Roberts? No, no, no. Before he met Julia Roberts, he had never been bullied. Everyone was always very nice to him. Then he met Julia Roberts and she bullied him a lot. So, before he met Julia Roberts, had he been bullied? No. Who had never been bullied before he met Julia Roberts? David Beckham. David Beckham had never been bullied before he met Julia Roberts. Was he bullied after he met her? Yes, he was. He was bullied a lot after he met Julia Roberts. Was he bullied after he got AJ, the ninja bodyguard? No, no, no, no, no. He was never bullied again after he got AJ, the ninja bodyguard. Had AJ ever been bullied? No, no, no. AJ, in the past, AJ had never been bullied. Not when he was young, not when he was 20, not when he was 30. He had never been bullied. And what about David Beckham? Had David Beckham ever been bullied in the past? Yes, he had. He had been bullied in the past. When had he been bullied? Well, after he met Julia Roberts, but before he got AJ, the bodyguard. I see. Interesting. And had Julia Roberts ever been bullied? Yes, she had. She had been bullied. When was she bullied? Well, she was bullied when she had Fritz, the German dog. Had Julia Roberts been bullied before she had Fritz? No, no, no, no. Before she got Fritz, the German dog, she had never been bullied in her life. But after she got Fritz, she got bullied all the time. Poor Julia. Poor David Beckham. And poor AJ? Had AJ been bullied ever before? No, no, no, no. AJ had never been bullied before. Why not? Well, of course, because AJ was a ninja. Obviously. Was AJ an English teacher? Yes, yes. AJ was an English teacher. But before he was an English teacher, he had been a ninja bodyguard. And where had AJ learned how to be a ninja? Well, well. He learned it in Japan, of course. Where did he study to be a ninja? In Japan. When did he study to be a ninja in Japan? When he was two years old. When he was two years old, AJ bought a plane ticket and he flew to Japan. Ah. Now, did AJ's mother and father go with him to Japan? No, of course not. Of course not. No. AJ went alone. AJ went alone to Japan. Why did AJ go to Japan? He went to Japan to become a ninja. To study to be a ninja. Ah. And when did he do that? When he was two years old. So, before he was two years old, had AJ been a ninja? Had he been a ninja when he was one? No, no, no, no. He had not been a ninja then. But when he was two, he traveled to Japan. Why did he go to Japan? To become a ninja. Ah, of course. Where in Japan did he go? Well, he went to Kyoto. He went to Kyoto City, Japan. Who went to Kyoto? AJ went to Kyoto. How old was AJ when he went to Kyoto? That's right. He was two years old when he went to Kyoto. And why did he go to Kyoto? He went to Kyoto to learn how to be a ninja. And why did he want to be a ninja? Of course, he wanted to be a ninja so he could help people and be a bodyguard. Ah. Okay, class. That is the end of part one of this story. I hope you enjoyed it. Now you can see this is a very simple, funny, totally not serious story. But in this story, you are practicing a lot of things. Mostly in this story you are practicing some grammar. Probably you noticed in this story I used the phrases had been, had gone, had been bullied. Now, if you know grammar, unfortunately, you know that's the past perfect. But don't think about that. You know, with effortless English, don't think about the grammar rules. All you need to know is that just by listening to the story, by shouting the answers, by understanding the meaning of the story, you are improving your grammar. And I chose this grammar because a lot of students have problems with this grammar point. A lot of students say that it's difficult. But it's not difficult. The problem is you just need to hear it more. You need to hear it in real situations so you begin to understand the meaning better. You need more repetition. You need more deep learning. So, all you need to do is listen to the story again and again and again. Listen to it every day for one week or two weeks. Shout your answers. Laugh and enjoy the story. That's all you need to do. Do that and your grammar will improve. Alright, so I hope you enjoyed this little extra bonus story. I'll see you again. Bye bye. This is AJ Hogue with Effortless English.

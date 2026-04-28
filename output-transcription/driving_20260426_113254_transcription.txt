@@ -1,0 +1,492 @@
+======================================================================
+AUDIO TRANSCRIPTION REPORT
+======================================================================
+File            : driving.mp3
+Generated       : 2026-04-26 11:37:58
+Detected Language: EN
+Whisper Model   : medium
+Duration        : 00:18:01
+Total Segments  : 157
+======================================================================
+
+TRANSCRIPT
+----------------------------------------------------------------------
+[00:00:00 → 00:00:06]  SPEAKER 01
+  In this conversation we're going to be talking about what it's like to drive in North America
+
+[00:00:06 → 00:00:13]  SPEAKER 01
+  and for the Real English Tip we've got some great advice about how you can learn vocabulary faster
+
+[00:00:13 → 00:00:19]  SPEAKER 01
+  and be able to use it in your speaking a lot easier. This is the Real English Conversations
+
+[00:00:19 → 00:00:25]  SPEAKER 01
+  podcast where you'll find the lessons and advice you need to be able to confidently use
+
+[00:00:25 → 00:00:27]  SPEAKER 01
+  your English in the real world.
+
+
+[00:00:30 → 00:00:36]  SPEAKER 02
+  Hi everybody it's Curtis and I'm here with Amy from Real English Conversations and we're going
+
+[00:00:36 → 00:00:44]  SPEAKER 02
+  to talk about driving in Canada and North America and it all starts with getting your learner's
+
+[00:00:44 → 00:00:49]  SPEAKER 02
+  license right Amy? Yeah definitely in order to be on the road behind the wheel of a vehicle
+
+[00:00:49 → 00:00:57]  SPEAKER 02
+  you've got to have a license and the first thing that you do is you actually at least in Canada we
+
+[00:00:57 → 00:01:04]  SPEAKER 02
+  do things in a very specific way we have something called a graduated licensing program. I'm sure
+
+[00:01:04 → 00:01:11]  SPEAKER 02
+  that the United States does it differently but you pick up this book and it has all the rules
+
+[00:01:11 → 00:01:17]  SPEAKER 02
+  of the road. Yeah and you have to study it because you have to write a written test or
+
+[00:01:17 → 00:01:23]  SPEAKER 02
+  something like that. Yeah it's been a long time right Curtis? It's been a very long time for me.
+
+
+[00:01:28 → 00:01:35]  SPEAKER 03
+  Yeah you have to go in there's a test that make sure that obviously you've studied the book you
+
+[00:01:35 → 00:01:44]  SPEAKER 03
+  know about the rules of making a right hand turn for example when you need to yield when you need
+
+[00:01:44 → 00:01:51]  SPEAKER 03
+  to stop all of those sort of things. Parallel parking. Yep and then if you pass the test they
+
+[00:01:51 → 00:01:58]  SPEAKER 03
+  give you a license which you're able to drive a vehicle under the supervision of someone who
+
+[00:01:58 → 00:02:05]  SPEAKER 03
+  has a proper license. Right. Anyway we have in Canada there's a phase where after you've had
+
+[00:02:05 → 00:02:12]  SPEAKER 03
+  your training with whoever is teaching you you come back and you get another license which has
+
+[00:02:12 → 00:02:18]  SPEAKER 03
+  restrictions for a year or so until you pass your final exam and you're able to drive without
+
+[00:02:18 → 00:02:25]  SPEAKER 03
+  all of the rules. Is that your novice license? Yeah we call it the novice license period or
+
+[00:02:25 → 00:02:32]  SPEAKER 03
+  something I'm not sure the exact terminology. So who taught you how to drive? I had a driving
+
+[00:02:32 → 00:02:39]  SPEAKER 03
+  instructor so I learned from a driving school and I learned in the winter time. Ah so your parents
+
+[00:02:39 → 00:02:48]  SPEAKER 03
+  didn't want to teach you. I think they were a little bit scared. For me my grandpa actually
+
+[00:02:48 → 00:02:56]  SPEAKER 03
+  taught me because of course he was retired and he had time and he had a small car that he could
+
+[00:02:56 → 00:03:02]  SPEAKER 03
+  take me out and we would drive around I think we had to do 30 hours or something like that of
+
+[00:03:02 → 00:03:08]  SPEAKER 03
+  practice before I was able to take my first driving test. Right. So that was really good it
+
+[00:03:08 → 00:03:15]  SPEAKER 03
+  was nice spending time with him and of course he was patient and I didn't have to learn from
+
+[00:03:15 → 00:03:20]  SPEAKER 03
+  a professional. Probably didn't take you very long too you learn things really quickly don't you?
+
+[00:03:21 → 00:03:28]  SPEAKER 03
+  It took me time it was I mean it takes a long time when you're learning how to drive initially
+
+[00:03:28 → 00:03:33]  SPEAKER 03
+  there's a lot of things that are happening all at the same time and it's difficult to process
+
+[00:03:33 → 00:03:39]  SPEAKER 03
+  all of that information it takes practice before you start being able to observe things confidently
+
+[00:03:39 → 00:03:46]  SPEAKER 03
+  and feel comfortable so yeah I definitely was nervous when I took my test. So after you go
+
+[00:03:46 → 00:03:54]  SPEAKER 03
+  through all the exams and you reach that exciting point of getting your official license what does
+
+[00:03:54 → 00:03:59]  SPEAKER 03
+  it feel like when you're on the road for the first time? Is it exciting? Were you excited?
+
+[00:04:00 → 00:04:06]  SPEAKER 03
+  I think I was excited that I had passed the test and that I didn't have to worry about any of these
+
+[00:04:06 → 00:04:15]  SPEAKER 03
+  extra rules that you know might affect me not being a we call it a class five driver that's like a
+
+[00:04:15 → 00:04:23]  SPEAKER 03
+  normal driver's license. So I think for me that that's more what it was about but driving and
+
+[00:04:23 → 00:04:31]  SPEAKER 03
+  being able to have a car sure gives you a lot of freedom especially in the city that we were
+
+[00:04:31 → 00:04:40]  SPEAKER 03
+  living in. What's the bus system like? Is it good? No it's not very good. It's like it's okay
+
+[00:04:40 → 00:04:47]  SPEAKER 03
+  yeah you know it's safe everything you know the bus routes go all over the city and they arrive
+
+[00:04:47 → 00:04:54]  SPEAKER 03
+  a certain time at the bus stops but the timing and the schedules it's it's not very good. There's
+
+[00:04:54 → 00:05:04]  SPEAKER 03
+  a lot of waiting yeah so by having your own car and a driver's license what does it help you to do?
+
+[00:05:05 → 00:05:12]  SPEAKER 03
+  It helps you to be able to get to work on time it helps you to be able to
+
+[00:05:12 → 00:05:21]  SPEAKER 03
+  get from point A to point B quicker. Yeah without having to be restricted to a certain schedule
+
+[00:05:22 → 00:05:32]  SPEAKER 03
+  you know that a bus has for example and I know for us we really enjoy taking road trips. Oh yeah.
+
+[00:05:33 → 00:05:41]  SPEAKER 03
+  So what are road trips? Like little vacations I guess you could say but you drive a certain
+
+[00:05:41 → 00:05:46]  SPEAKER 03
+  distance like two or three hours. Sometimes further like some people go on road trips that
+
+[00:05:46 → 00:05:52]  SPEAKER 03
+  are like you know you could go on a road trip to California for example and maybe it's 30 hours but
+
+[00:05:52 → 00:05:58]  SPEAKER 03
+  yeah you can go across the country. You wouldn't do that in one day you'd take breaks yeah but the
+
+[00:05:58 → 00:06:07]  SPEAKER 03
+  point is that you're you're traveling via a car you know it's it's not it's not like you're taking
+
+[00:06:07 → 00:06:12]  SPEAKER 03
+  a bus or a plane or something you're able to stop whenever you see something cool. Yeah you
+
+[00:06:12 → 00:06:17]  SPEAKER 03
+  get to see a lot more scenery and and things like that so it can be fun in that way too. Yeah
+
+[00:06:17 → 00:06:26]  SPEAKER 03
+  definitely. Now one part about driving and actually I remember it was during a road trip
+
+[00:06:26 → 00:06:35]  SPEAKER 03
+  have you ever got a ticket? Yes. We've both had tickets. Yeah speeding tickets this is where
+
+[00:06:35 → 00:06:42]  SPEAKER 03
+  you know you're you're going faster than the posted speed limit. Yeah there's like a special
+
+[00:06:42 → 00:06:47]  SPEAKER 03
+  speed limit and it changes depending on whether you're in the city or on the highway or something.
+
+[00:06:47 → 00:06:55]  SPEAKER 03
+  You're only allowed to go a certain speed and if you go over that and there's a police officer
+
+[00:06:55 → 00:07:03]  SPEAKER 03
+  waiting he will pull you over and he will give you a ticket with a very hefty fine if you're going
+
+[00:07:03 → 00:07:10]  SPEAKER 03
+  really really fast. Yeah exactly and I remember for me this was actually the thing that motivated
+
+[00:07:10 → 00:07:16]  SPEAKER 03
+  me to finally get rid of that novice driver's license and I got my first speeding ticket
+
+[00:07:16 → 00:07:25]  SPEAKER 03
+  when I had that license and the rules are actually if you get a fine during that period
+
+[00:07:25 → 00:07:29]  SPEAKER 03
+  and they have time to process it like it takes a few weeks for them to process it
+
+[00:07:29 → 00:07:34]  SPEAKER 03
+  but if they process that fine and realize that you don't have your class five license
+
+[00:07:34 → 00:07:41]  SPEAKER 03
+  they'll actually take it away for a certain period of time like you lose your license.
+
+[00:07:41 → 00:07:48]  SPEAKER 03
+  Wow. So anyway I went in to go pay my ticket and the lady at the counter explained this to me
+
+[00:07:48 → 00:07:54]  SPEAKER 03
+  and she's like so I would suggest you walk over there and book your road test before you lose
+
+[00:07:54 → 00:08:02]  SPEAKER 03
+  your license and luckily I was able to do that and I got my license and everything was fine.
+
+[00:08:03 → 00:08:06]  SPEAKER 03
+  You got lucky. Yeah what about you what have you been pulled over for?
+
+
+[00:08:08 → 00:08:16]  SPEAKER 04
+  I've been pulled over for tailgating an ambulance. Oh my god I didn't think that was the story he was
+
+[00:08:16 → 00:08:24]  SPEAKER 04
+  going to pick. Now this is a very very bad thing to do I don't recommend you doing this. Okay what's
+
+[00:08:24 → 00:08:33]  SPEAKER 04
+  tailgating? Tailgating is following somebody too close so usually you have to leave a car length
+
+[00:08:33 → 00:08:41]  SPEAKER 04
+  in between the car in front of you and your car and I at that point had a very very bad habit of
+
+[00:08:41 → 00:08:50]  SPEAKER 04
+  driving way too close. Right and in between or I was in between the emergency ambulance vehicle
+
+[00:08:50 → 00:08:57]  SPEAKER 04
+  in front of me and a police car behind me but I didn't know it was a police car because it
+
+[00:08:57 → 00:09:04]  SPEAKER 04
+  didn't have the lights. Oh it was a ghost car. It was a ghost car or an unmarked car yeah an unmarked
+
+[00:09:04 → 00:09:12]  SPEAKER 04
+  car and right away he turned on his his lights that were on his dashboard and in the front of
+
+[00:09:12 → 00:09:22]  SPEAKER 04
+  his car and his siren and he was mad he was really mad but I got lucky on that one too even
+
+[00:09:22 → 00:09:29]  SPEAKER 04
+  though he was mad he didn't give me a ticket. Yeah sometimes they let you off they like they
+
+[00:09:29 → 00:09:35]  SPEAKER 04
+  let you off the hook or I don't know they they give you what is it a warning a warning yeah they
+
+[00:09:35 → 00:09:41]  SPEAKER 04
+  give you a warning don't do it again oh yeah it's a written warning you know and it goes on record
+
+[00:09:41 → 00:09:47]  SPEAKER 04
+  that you've been warned about this but they don't actually give you a fine yeah he kept track of it
+
+[00:09:47 → 00:09:56]  SPEAKER 04
+  for sure yeah yeah I had uh last year actually it had been a really long time since I had got a
+
+[00:09:56 → 00:10:03]  SPEAKER 04
+  ticket and um we have like I believe most countries in the world are starting to implement
+
+[00:10:03 → 00:10:09]  SPEAKER 04
+  traffic laws associated with talking on your cell phone talking or texting on your cell phone
+
+[00:10:09 → 00:10:15]  SPEAKER 04
+  right and Curtis and I we had a delivery business for years and years and years
+
+[00:10:15 → 00:10:21]  SPEAKER 04
+  and most of the communication was done through text messaging and stuff like that and I mean
+
+[00:10:21 → 00:10:27]  SPEAKER 04
+  we were distracted drivers and fortunately had nothing happen to us although I don't recommend
+
+[00:10:27 → 00:10:34]  SPEAKER 04
+  it and would never do it again but we definitely you know had a lot of text messages and sending
+
+[00:10:34 → 00:10:41]  SPEAKER 04
+  messages while we were driving yeah so I don't know if it was like karma or something like that
+
+[00:10:41 → 00:10:48]  SPEAKER 04
+  but of course I never got caught all the years that we were doing deliveries and stuff never
+
+[00:10:48 → 00:10:54]  SPEAKER 04
+  got caught texting and driving or being on my phone while I was driving but this one day I
+
+[00:10:54 → 00:11:02]  SPEAKER 04
+  was late I was coming from just the next town over from where we live um I had just finished
+
+[00:11:02 → 00:11:07]  SPEAKER 04
+  with some friends out at the lake and I was late and I called Curtis to let him know hey can you
+
+[00:11:07 → 00:11:11]  SPEAKER 04
+  get this stuff ready we're going to go down to someone else's house and I'm running behind
+
+[00:11:11 → 00:11:19]  SPEAKER 04
+  yeah and I couldn't find my Bluetooth and that's the hands-free device right it goes in your ear
+
+[00:11:19 → 00:11:24]  SPEAKER 04
+  so you don't have to touch your cell phone you can just make a phone call and you know it's
+
+[00:11:24 → 00:11:30]  SPEAKER 04
+  it's really really good and I always have it I use it every single day during my delivery shift
+
+[00:11:30 → 00:11:35]  SPEAKER 04
+  whenever I'm in my car I never ever talk on my cell phone and I didn't have it so I picked up the
+
+[00:11:35 → 00:11:39]  SPEAKER 04
+  phone because it's kind of like a side road and I didn't think it was going to be a big deal
+
+
+[00:11:41 → 00:11:49]  SPEAKER 05
+  and sure enough this sneaky cop comes flying up the road and he saw me and I thought oh no I was
+
+[00:11:49 → 00:11:55]  SPEAKER 05
+  on my phone he caught me he kept driving and then all of a sudden a minute or two later here he was
+
+[00:11:55 → 00:12:04]  SPEAKER 05
+  behind me light sun yeah and I got a ticket so anyway moral of the story don't drive distracted
+
+[00:12:04 → 00:12:11]  SPEAKER 05
+  even if it's not a law in your country it's very very dangerous yeah and this is the english
+
+[00:12:11 → 00:12:17]  SPEAKER 05
+  conversation tip so for the real english tip today we're going to talk about vocabulary
+
+[00:12:17 → 00:12:24]  SPEAKER 05
+  and some of the ways you can build it not just build it quickly but to understand it and to
+
+[00:12:25 → 00:12:30]  SPEAKER 05
+  use it while you're speaking and what are some of those ways we can do that amy well this is
+
+[00:12:30 → 00:12:36]  SPEAKER 05
+  actually a really important thing because without knowing the most common vocabulary
+
+[00:12:36 → 00:12:43]  SPEAKER 05
+  within english you're going to have a difficult time understanding native speakers it's going to
+
+[00:12:43 → 00:12:48]  SPEAKER 05
+  be difficult to understand things that you read and it's also going to be difficult to
+
+[00:12:48 → 00:12:55]  SPEAKER 05
+  you want to say yes so really vocabulary continues to be an important part of your english
+
+[00:12:55 → 00:13:03]  SPEAKER 05
+  development all the way from beginner to upper advanced exactly course upper advanced you're
+
+[00:13:03 → 00:13:10]  SPEAKER 05
+  using words now that aren't the most common you're using words that are more detailed yeah so a lot
+
+[00:13:10 → 00:13:18]  SPEAKER 05
+  of times the way that vocabulary is taught to you is by memorization and this is the technique that
+
+[00:13:18 → 00:13:23]  SPEAKER 05
+  you're supposed to use right they give you a list of words the teacher gives you a list of words
+
+[00:13:23 → 00:13:29]  SPEAKER 05
+  they send you home you memorize them and then you come back to class the next day and you write a
+
+[00:13:29 → 00:13:37]  SPEAKER 05
+  test yeah and what's really interesting about that is that process does not involve listening
+
+[00:13:37 → 00:13:43]  SPEAKER 05
+  to any of those words and it doesn't involve using any of those words while you're speaking
+
+[00:13:44 → 00:13:52]  SPEAKER 05
+  so what happens when you memorize a list of words curtis and then you want to use it with your friend
+
+[00:13:52 → 00:14:00]  SPEAKER 05
+  the next day usually if i have a list of words in my flashcard deck and i try to memorize them
+
+[00:14:01 → 00:14:08]  SPEAKER 05
+  i can't recall them the next time i want to use them so it's it's really hard for me to to remember
+
+[00:14:08 → 00:14:14]  SPEAKER 05
+  when i go to to speak with my friend yeah and i mean if you've been studying those words maybe
+
+[00:14:14 → 00:14:19]  SPEAKER 05
+  for a couple weeks or something like that and you really really know them well you might be able to
+
+[00:14:19 → 00:14:26]  SPEAKER 05
+  use them within your speaking but for the most part if you've studied 20 or 30 words all at the
+
+[00:14:26 → 00:14:33]  SPEAKER 05
+  same time and you've never heard those words and really you don't know how they sound very well
+
+[00:14:33 → 00:14:39]  SPEAKER 05
+  especially with english english spelling and how it said are completely different yeah so you need
+
+[00:14:39 → 00:14:45]  SPEAKER 05
+  to hear these words in order to have that association or connection with it right yeah so although you
+
+[00:14:45 → 00:14:53]  SPEAKER 05
+  can pass a test with writing and you can do maybe multiple choice and select the correct vocabulary
+
+[00:14:53 → 00:15:01]  SPEAKER 05
+  and do all of that stuff in the real world for the actual skills that you're going to need to
+
+[00:15:01 → 00:15:09]  SPEAKER 05
+  native speakers and to be able to use them while you're speaking this method of memorization is
+
+[00:15:09 → 00:15:17]  SPEAKER 05
+  not very useful no so i'm actually going to talk about how you can not only improve your speaking
+
+[00:15:17 → 00:15:25]  SPEAKER 05
+  skills okay but you can learn vocabulary faster all right and this is actually one of the tips
+
+[00:15:25 → 00:15:30]  SPEAKER 05
+  that i give in our speaking course that we have available on our website that's right
+
+[00:15:30 → 00:15:37]  SPEAKER 05
+  so basically when you are speaking about something and you realize you don't know a
+
+[00:15:37 → 00:15:43]  SPEAKER 05
+  word in that moment and you look it up because obviously you need it yes a word you need a
+
+[00:15:43 → 00:15:51]  SPEAKER 05
+  good one to learn okay step one learn the most common words yeah and you look it up and then
+
+[00:15:51 → 00:15:57]  SPEAKER 05
+  right away you use it to finish explaining whatever you want to say right obviously you
+
+[00:15:57 → 00:16:03]  SPEAKER 05
+  can't do this in a live conversation with someone no i'm talking about techniques that we have within
+
+[00:16:03 → 00:16:09]  SPEAKER 05
+  our course that you can do when you're not practicing with a native speaker or maybe you
+
+[00:16:09 → 00:16:14]  SPEAKER 05
+  don't have a native speaker to practice with right but you're trying to complete an assignment
+
+[00:16:14 → 00:16:20]  SPEAKER 05
+  where you explain something and you realize that you need this word so you use it right away and
+
+[00:16:21 → 00:16:27]  SPEAKER 05
+  maybe you try explaining whatever it is you're explaining again and you actually have an
+
+[00:16:27 → 00:16:34]  SPEAKER 05
+  opportunity to use that word again yeah now you've used it twice like you've realized you needed it
+
+[00:16:34 → 00:16:40]  SPEAKER 05
+  you looked up that word you looked at it you listened to how it sounded and then you used
+
+[00:16:40 → 00:16:48]  SPEAKER 05
+  it a couple times i can guarantee you if you put that word into your list of flashcards and you
+
+[00:16:48 → 00:16:54]  SPEAKER 05
+  look at it the next day you're gonna know that word you're gonna remember that word and if you
+
+[00:16:54 → 00:17:00]  SPEAKER 05
+  don't know it right away really really well just seeing it that one time is gonna be enough to
+
+[00:17:00 → 00:17:07]  SPEAKER 05
+  really make a strong connection to that word and now you're not needing to spend all this time
+
+[00:17:07 → 00:17:13]  SPEAKER 05
+  studying your list of words because you're actually learning it a lot faster and what's more
+
+[00:17:13 → 00:17:20]  SPEAKER 05
+  important is that you've actually used it a few times yes so now it's an active word in your
+
+[00:17:20 → 00:17:26]  SPEAKER 05
+  vocabulary and you'll be able to use it in future conversations right so anyway if you want to get
+
+[00:17:26 → 00:17:33]  SPEAKER 05
+  more tips like this so that you can learn faster and start speaking better in less time you need
+
+[00:17:33 → 00:17:39]  SPEAKER 05
+  to come to our website realenglishconversations.com of course you can sign up for our email list to
+
+[00:17:39 → 00:17:45]  SPEAKER 05
+  some of our you know free email lessons that we send out but if you're serious about taking
+
+[00:17:45 → 00:17:50]  SPEAKER 05
+  your english to the next level make sure that you check out our courses because the stuff that
+
+[00:17:50 → 00:17:57]  SPEAKER 05
+  i'm sharing with you is just a very very small amount of the amazing tips activities and
+
+[00:17:57 → 00:18:01]  SPEAKER 05
+  techniques that you're going to get as a member of these courses
+
+======================================================================
+FULL TEXT (plain)
+======================================================================
+In this conversation we're going to be talking about what it's like to drive in North America and for the Real English Tip we've got some great advice about how you can learn vocabulary faster and be able to use it in your speaking a lot easier. This is the Real English Conversations podcast where you'll find the lessons and advice you need to be able to confidently use your English in the real world. Hi everybody it's Curtis and I'm here with Amy from Real English Conversations and we're going to talk about driving in Canada and North America and it all starts with getting your learner's license right Amy? Yeah definitely in order to be on the road behind the wheel of a vehicle you've got to have a license and the first thing that you do is you actually at least in Canada we do things in a very specific way we have something called a graduated licensing program. I'm sure that the United States does it differently but you pick up this book and it has all the rules of the road. Yeah and you have to study it because you have to write a written test or something like that. Yeah it's been a long time right Curtis? It's been a very long time for me. Yeah you have to go in there's a test that make sure that obviously you've studied the book you know about the rules of making a right hand turn for example when you need to yield when you need to stop all of those sort of things. Parallel parking. Yep and then if you pass the test they give you a license which you're able to drive a vehicle under the supervision of someone who has a proper license. Right. Anyway we have in Canada there's a phase where after you've had your training with whoever is teaching you you come back and you get another license which has restrictions for a year or so until you pass your final exam and you're able to drive without all of the rules. Is that your novice license? Yeah we call it the novice license period or something I'm not sure the exact terminology. So who taught you how to drive? I had a driving instructor so I learned from a driving school and I learned in the winter time. Ah so your parents didn't want to teach you. I think they were a little bit scared. For me my grandpa actually taught me because of course he was retired and he had time and he had a small car that he could take me out and we would drive around I think we had to do 30 hours or something like that of practice before I was able to take my first driving test. Right. So that was really good it was nice spending time with him and of course he was patient and I didn't have to learn from a professional. Probably didn't take you very long too you learn things really quickly don't you? It took me time it was I mean it takes a long time when you're learning how to drive initially there's a lot of things that are happening all at the same time and it's difficult to process all of that information it takes practice before you start being able to observe things confidently and feel comfortable so yeah I definitely was nervous when I took my test. So after you go through all the exams and you reach that exciting point of getting your official license what does it feel like when you're on the road for the first time? Is it exciting? Were you excited? I think I was excited that I had passed the test and that I didn't have to worry about any of these extra rules that you know might affect me not being a we call it a class five driver that's like a normal driver's license. So I think for me that that's more what it was about but driving and being able to have a car sure gives you a lot of freedom especially in the city that we were living in. What's the bus system like? Is it good? No it's not very good. It's like it's okay yeah you know it's safe everything you know the bus routes go all over the city and they arrive a certain time at the bus stops but the timing and the schedules it's it's not very good. There's a lot of waiting yeah so by having your own car and a driver's license what does it help you to do? It helps you to be able to get to work on time it helps you to be able to get from point A to point B quicker. Yeah without having to be restricted to a certain schedule you know that a bus has for example and I know for us we really enjoy taking road trips. Oh yeah. So what are road trips? Like little vacations I guess you could say but you drive a certain distance like two or three hours. Sometimes further like some people go on road trips that are like you know you could go on a road trip to California for example and maybe it's 30 hours but yeah you can go across the country. You wouldn't do that in one day you'd take breaks yeah but the point is that you're you're traveling via a car you know it's it's not it's not like you're taking a bus or a plane or something you're able to stop whenever you see something cool. Yeah you get to see a lot more scenery and and things like that so it can be fun in that way too. Yeah definitely. Now one part about driving and actually I remember it was during a road trip have you ever got a ticket? Yes. We've both had tickets. Yeah speeding tickets this is where you know you're you're going faster than the posted speed limit. Yeah there's like a special speed limit and it changes depending on whether you're in the city or on the highway or something. You're only allowed to go a certain speed and if you go over that and there's a police officer waiting he will pull you over and he will give you a ticket with a very hefty fine if you're going really really fast. Yeah exactly and I remember for me this was actually the thing that motivated me to finally get rid of that novice driver's license and I got my first speeding ticket when I had that license and the rules are actually if you get a fine during that period and they have time to process it like it takes a few weeks for them to process it but if they process that fine and realize that you don't have your class five license they'll actually take it away for a certain period of time like you lose your license. Wow. So anyway I went in to go pay my ticket and the lady at the counter explained this to me and she's like so I would suggest you walk over there and book your road test before you lose your license and luckily I was able to do that and I got my license and everything was fine. You got lucky. Yeah what about you what have you been pulled over for? I've been pulled over for tailgating an ambulance. Oh my god I didn't think that was the story he was going to pick. Now this is a very very bad thing to do I don't recommend you doing this. Okay what's tailgating? Tailgating is following somebody too close so usually you have to leave a car length in between the car in front of you and your car and I at that point had a very very bad habit of driving way too close. Right and in between or I was in between the emergency ambulance vehicle in front of me and a police car behind me but I didn't know it was a police car because it didn't have the lights. Oh it was a ghost car. It was a ghost car or an unmarked car yeah an unmarked car and right away he turned on his his lights that were on his dashboard and in the front of his car and his siren and he was mad he was really mad but I got lucky on that one too even though he was mad he didn't give me a ticket. Yeah sometimes they let you off they like they let you off the hook or I don't know they they give you what is it a warning a warning yeah they give you a warning don't do it again oh yeah it's a written warning you know and it goes on record that you've been warned about this but they don't actually give you a fine yeah he kept track of it for sure yeah yeah I had uh last year actually it had been a really long time since I had got a ticket and um we have like I believe most countries in the world are starting to implement traffic laws associated with talking on your cell phone talking or texting on your cell phone right and Curtis and I we had a delivery business for years and years and years and most of the communication was done through text messaging and stuff like that and I mean we were distracted drivers and fortunately had nothing happen to us although I don't recommend it and would never do it again but we definitely you know had a lot of text messages and sending messages while we were driving yeah so I don't know if it was like karma or something like that but of course I never got caught all the years that we were doing deliveries and stuff never got caught texting and driving or being on my phone while I was driving but this one day I was late I was coming from just the next town over from where we live um I had just finished with some friends out at the lake and I was late and I called Curtis to let him know hey can you get this stuff ready we're going to go down to someone else's house and I'm running behind yeah and I couldn't find my Bluetooth and that's the hands-free device right it goes in your ear so you don't have to touch your cell phone you can just make a phone call and you know it's it's really really good and I always have it I use it every single day during my delivery shift whenever I'm in my car I never ever talk on my cell phone and I didn't have it so I picked up the phone because it's kind of like a side road and I didn't think it was going to be a big deal and sure enough this sneaky cop comes flying up the road and he saw me and I thought oh no I was on my phone he caught me he kept driving and then all of a sudden a minute or two later here he was behind me light sun yeah and I got a ticket so anyway moral of the story don't drive distracted even if it's not a law in your country it's very very dangerous yeah and this is the english conversation tip so for the real english tip today we're going to talk about vocabulary and some of the ways you can build it not just build it quickly but to understand it and to use it while you're speaking and what are some of those ways we can do that amy well this is actually a really important thing because without knowing the most common vocabulary within english you're going to have a difficult time understanding native speakers it's going to be difficult to understand things that you read and it's also going to be difficult to you want to say yes so really vocabulary continues to be an important part of your english development all the way from beginner to upper advanced exactly course upper advanced you're using words now that aren't the most common you're using words that are more detailed yeah so a lot of times the way that vocabulary is taught to you is by memorization and this is the technique that you're supposed to use right they give you a list of words the teacher gives you a list of words they send you home you memorize them and then you come back to class the next day and you write a test yeah and what's really interesting about that is that process does not involve listening to any of those words and it doesn't involve using any of those words while you're speaking so what happens when you memorize a list of words curtis and then you want to use it with your friend the next day usually if i have a list of words in my flashcard deck and i try to memorize them i can't recall them the next time i want to use them so it's it's really hard for me to to remember when i go to to speak with my friend yeah and i mean if you've been studying those words maybe for a couple weeks or something like that and you really really know them well you might be able to use them within your speaking but for the most part if you've studied 20 or 30 words all at the same time and you've never heard those words and really you don't know how they sound very well especially with english english spelling and how it said are completely different yeah so you need to hear these words in order to have that association or connection with it right yeah so although you can pass a test with writing and you can do maybe multiple choice and select the correct vocabulary and do all of that stuff in the real world for the actual skills that you're going to need to native speakers and to be able to use them while you're speaking this method of memorization is not very useful no so i'm actually going to talk about how you can not only improve your speaking skills okay but you can learn vocabulary faster all right and this is actually one of the tips that i give in our speaking course that we have available on our website that's right so basically when you are speaking about something and you realize you don't know a word in that moment and you look it up because obviously you need it yes a word you need a good one to learn okay step one learn the most common words yeah and you look it up and then right away you use it to finish explaining whatever you want to say right obviously you can't do this in a live conversation with someone no i'm talking about techniques that we have within our course that you can do when you're not practicing with a native speaker or maybe you don't have a native speaker to practice with right but you're trying to complete an assignment where you explain something and you realize that you need this word so you use it right away and maybe you try explaining whatever it is you're explaining again and you actually have an opportunity to use that word again yeah now you've used it twice like you've realized you needed it you looked up that word you looked at it you listened to how it sounded and then you used it a couple times i can guarantee you if you put that word into your list of flashcards and you look at it the next day you're gonna know that word you're gonna remember that word and if you don't know it right away really really well just seeing it that one time is gonna be enough to really make a strong connection to that word and now you're not needing to spend all this time studying your list of words because you're actually learning it a lot faster and what's more important is that you've actually used it a few times yes so now it's an active word in your vocabulary and you'll be able to use it in future conversations right so anyway if you want to get more tips like this so that you can learn faster and start speaking better in less time you need to come to our website realenglishconversations.com of course you can sign up for our email list to some of our you know free email lessons that we send out but if you're serious about taking your english to the next level make sure that you check out our courses because the stuff that i'm sharing with you is just a very very small amount of the amazing tips activities and techniques that you're going to get as a member of these courses

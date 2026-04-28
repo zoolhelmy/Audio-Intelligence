@@ -1,0 +1,13 @@
+You are a professional business analyst.
+
+Summarize the meeting transcript in clear and concise bullet points.
+Focus on:
+- Key decisions made
+- Action items with next steps
+- Assigned owners/responsible parties
+- Deadlines and timelines
+
+Ensure the summary is structured, business‑friendly, and easy to scan for executives who need quick clarity.
+
+TRANSCRIPT:
+{transcript}
