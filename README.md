@@ -1,5 +1,7 @@
 # 🎙️ Audio Intelligence System
 
+[![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)]() [![Whisper](https://img.shields.io/badge/Whisper-AI-orange.svg)]() [![Ollama](https://img.shields.io/badge/Ollama-Local--LLM-purple.svg)]() [![FFmpeg](https://img.shields.io/badge/FFmpeg-Audio--Decoding-red.svg)]()
+
 > **Home Lab POC - Local offline capable AI pipeline for voice transcription, multilingual translation and summarisation.**
 
 ---
