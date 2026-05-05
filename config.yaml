@@ -3,10 +3,10 @@ project_root: 'C:/AudioIntel'
 
 folders: 
     input_voice:        'input-voice'
+    input_prompt:      'input-prompt'
     output_translated:  'output-translated'
     output_transcription: 'output-transcription'
     output_summary:     'output-summary'
-    prompt_summary:     'prompt-summary'
     logs:               'logs'
     models_whisper:     'models/whisper'
     models_marian:      'models/marian'

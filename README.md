@@ -64,7 +64,7 @@ The system is designed for business professionals who handle sensitive audio con
 |---|---|
 | CPU | Intel Core i7-13700H (or equivalent, 8+ cores) |
 | RAM | 16 GB DDR5 (minimum — 64 GB recommended for larger models) |
-| GPU | NVIDIA RTX 4050 Laptop GPU, 6 GB VRAM (CUDA Compute 8.9) |
+| GPU | NVIDIA RTX 4050, 6 GB VRAM (CUDA Compute 8.9) |
 | Storage | 20 GB free (models + packages + outputs) |
 | OS | Windows 11 Home or Pro |
 
@@ -278,7 +278,7 @@ The current codebase is intentionally modular — `transcriber.py`, `translator.
 
 ## Screenshots
 
-## Single page UI with file picker, translation options, summarization prompt and status
+### Single page browser based UI with file picker, translation options, summarization prompt and status
 
 ![alt_text](img/ui-01.jpg "Browser UI")
 

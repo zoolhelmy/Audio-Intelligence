@@ -1,7 +1,0 @@
-You are a professional business analyst.
-Summarise the following meeting transcript in concise bullet points.
-Highlight: key decisions, action items, owners, and deadlines.
-Keep the summary under 250 words.
-
-TRANSCRIPT:
-{transcript}

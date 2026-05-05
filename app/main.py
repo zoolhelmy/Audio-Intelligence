@@ -78,10 +78,10 @@ col1, col2 = st.columns([1, 1])
 with col1:
     st.subheader('📁 Input Audio')
     input_mode = st.radio(
-        # 'Select input mode', ['Single File', 'Entire Folder'], # TODO: re-enable folder mode after testing
+        # 'Select input mode', ['Single File', 'Entire Folder'],  # TODO: re-enable after testing
         'Select input mode', ['Single File'],
         horizontal=True,
-        help='Single File: pick one audio file. Entire Folder: process all audio files in a folder.',
+        help='Single File: pick one audio file.',
     )
     audio_input = render_file_picker(
         default_dir=os.path.join(ROOT, FOLDERS['input_voice']),
@@ -100,7 +100,7 @@ with col1:
 
 with col2:
     st.subheader('📝 Summarisation Prompt')
-    prompt_dir = os.path.join(ROOT, FOLDERS['prompt_summary'])
+    prompt_dir = os.path.join(ROOT, FOLDERS['input_prompt'])
     prompts    = [f for f in os.listdir(prompt_dir) if f.endswith('.txt')]
     use_default = st.toggle('Use saved prompt', value=True)
     if use_default and prompts:
@@ -144,30 +144,28 @@ if run_btn:
 if st.session_state.pipeline_running and audio_input:
     st.session_state.pipeline_results = []
 
-    # ── Force CUDA cleanup from any previous run ──────────────────
-    # Streamlit reruns keep previous script-scope objects alive in memory.
-    # Explicitly clear all CUDA cache before loading new models.
     try:
-        import torch, gc
-        gc.collect()
-        if torch.cuda.is_available():
+        import torch
+
+        # ── CUDA pre-clear ────────────────────────────────────────────────
+        # Clear any leftover VRAM from previous runs or abandoned sessions.
+        # Only clear if Whisper is not already resident (avoid evicting a warm model).
+        cached_transcriber = st.session_state.get('_transcriber', None)
+        if cached_transcriber is None and torch.cuda.is_available():
+            gc.collect()
             torch.cuda.empty_cache()
             torch.cuda.synchronize()
+            free_gb = torch.cuda.mem_get_info()[0] / 1024**3
+            total_gb = torch.cuda.mem_get_info()[1] / 1024**3
             logger.info('--------------------------------------------------------')
-            logger.info(
-                f'CUDA memory cleared. '
-                f'Free: {torch.cuda.mem_get_info()[0] / 1024**3:.1f} GB / '
-                f'{torch.cuda.mem_get_info()[1] / 1024**3:.1f} GB'
-            )
-    except Exception as e:
-        logger.warning(f'CUDA pre-clear failed: {e}')
+            logger.info(f'CUDA memory cleared. Free: {free_gb:.1f} GB / {total_gb:.1f} GB')
 
-    try:
-        # Discover files
+        # ── Discover files ────────────────────────────────────────────────
         with st.spinner('Discovering audio files...'):
             try:
                 files = discover_audio_files(audio_input)
                 st.success(f'Found {len(files)} audio file(s) in {audio_input}')
+                logger.info('--------------------------------------------------------')
                 logger.info(f'Found {len(files)} file(s) in {audio_input}')
             except Exception as e:
                 st.error(str(e))
@@ -175,21 +173,62 @@ if st.session_state.pipeline_running and audio_input:
                 st.session_state.pipeline_running = False
                 st.stop()
 
-        # ── Initialise engines — tracked in session state ─────────
-        # Storing in session_state ensures old instances are explicitly
-        # replaced rather than orphaned in Streamlit's script scope.
+        # ── Initialise engines ────────────────────────────────────────────
+        # Translator and Summariser are cheap to construct (lazy model loading).
+        # Reinitialise on every pipeline run to pick up any config changes.
+        # Transcriber is cached across runs — Whisper takes ~8s to load from disk.
+        # On repeated runs it stays in CPU RAM and is moved to GPU as needed.
         logger.info('Initialising engines...')
-        st.session_state['_translator'] = Translator(
-            os.path.join(ROOT, FOLDERS['models_nllb'])
-        )
-        st.session_state['_summariser'] = Summariser(cfg['ollama'])
-        translator = st.session_state['_translator']
-        summariser = st.session_state['_summariser']
+
+        # Always reinitialise these — constructors are near-instant
+        translator = Translator(os.path.join(ROOT, FOLDERS['models_nllb']))
+        summariser = Summariser(cfg['ollama'])
+
+        # Transcriber: load once, cache in session state, reuse across runs
+        WHISPER_VRAM_REQUIRED_GB = 1.6
+        whisper_cfg = {
+            **cfg['whisper'],
+            'model_size': whisper_model,
+            'model_dir':  os.path.join(ROOT, FOLDERS['models_whisper']),
+        }
+
+        # VRAM check — fall back to CPU if insufficient headroom
+        if whisper_cfg.get('device') == 'cuda' and torch.cuda.is_available():
+            free_vram_gb = torch.cuda.mem_get_info()[0] / 1024**3
+            if free_vram_gb < WHISPER_VRAM_REQUIRED_GB:
+                logger.warning(
+                    f'Insufficient VRAM ({free_vram_gb:.1f} GB free, '
+                    f'{WHISPER_VRAM_REQUIRED_GB} GB required). Falling back to CPU.'
+                )
+                whisper_cfg['device'] = 'cpu'
+                whisper_cfg['fp16']   = False
+            else:
+                logger.info(f'VRAM available: {free_vram_gb:.1f} GB — loading Whisper to GPU.')
+
+        transcriber = st.session_state.get('_transcriber', None)
+        if transcriber is None:
+            logger.info('Loading Whisper model (first run)...')
+            transcriber = Transcriber(whisper_cfg)
+            st.session_state['_transcriber'] = transcriber
+        else:
+            # Warm model already in CPU RAM — move back to GPU if it was offloaded
+            if (transcriber.model is not None
+                    and whisper_cfg.get('device') == 'cuda'
+                    and torch.cuda.is_available()):
+                device_str = str(next(transcriber.model.parameters()).device)
+                if device_str == 'cpu':
+                    transcriber.model.to('cuda')
+                    torch.cuda.synchronize()
+                    logger.info('Whisper reloaded to GPU from CPU cache.')
+                else:
+                    logger.info('Reusing warm Whisper model (already on GPU).')
+            else:
+                logger.info('Reusing warm Whisper model (CPU mode).')
 
         overall_bar = st.progress(0, text=f'Overall: 0 / {len(files)} file(s)')
         total = len(files)
 
-        # ── Per-file loop ─────────────────────────────────────────
+        # ── Per-file loop ─────────────────────────────────────────────────
         for idx, audio_file in enumerate(files):
 
             st.markdown(
@@ -197,35 +236,7 @@ if st.session_state.pipeline_running and audio_input:
             )
             ts = datetime.datetime.now().strftime('%Y%m%d_%H%M%S')
 
-            # ── Transcriber: fresh instance per file ──────────────
-            # Required because unload() nullifies self.model.
-            # Whisper reloads from local disk cache in ~2–3 seconds.
-            # ── VRAM check before loading Whisper ─────────────────
-            whisper_cfg = {
-                **cfg['whisper'],
-                'model_size': whisper_model,
-                'model_dir':  os.path.join(ROOT, FOLDERS['models_whisper']),
-            }
-            # Verify sufficient VRAM before attempting GPU load
-            # Whisper medium needs ~1.5 GB VRAM
-            WHISPER_VRAM_REQUIRED_GB = 1.6
-            if whisper_cfg.get('device') == 'cuda' and torch.cuda.is_available():
-                free_vram_gb = torch.cuda.mem_get_info()[0] / 1024**3
-                if free_vram_gb < WHISPER_VRAM_REQUIRED_GB:
-                    logger.warning(
-                        f'Insufficient VRAM ({free_vram_gb:.1f} GB free, '
-                        f'{WHISPER_VRAM_REQUIRED_GB} GB required). '
-                        f'Falling back to CPU.'
-                    )
-                    whisper_cfg['device'] = 'cpu'
-                    whisper_cfg['fp16']   = False
-                else:
-                    logger.info(f'VRAM available: {free_vram_gb:.1f} GB — loading to GPU.')
-
-            logger.info(f'Loading Whisper for file {idx + 1}/{total}...')
-            transcriber = Transcriber(whisper_cfg)
-
-            # ── 1. TRANSCRIBE ─────────────────────────────────────
+            # ── 1. TRANSCRIBE ─────────────────────────────────────────────
             logger.info(f'Transcribing {audio_file.name}...')
             st.markdown('**🎙️ Transcribing...**')
             tx_bar  = st.progress(0.0, text='Starting transcription...')
@@ -251,14 +262,20 @@ if st.session_state.pipeline_running and audio_input:
             logger.info(f'Transcription saved: {out_tx}')
             text_to_summarise = transcript
 
-            # Free Whisper before translation/summarisation
-            transcriber.unload()
-            gc.collect()
+            # ── Offload Whisper from VRAM before translation / Ollama ─────
+            # Move Whisper tensors to CPU RAM instead of full unload.
+            # This keeps model weights in memory so the next run's GPU reload
+            # takes ~1-2 seconds (tensor move) rather than ~8 seconds (disk).
+            if (transcriber.model is not None
+                    and whisper_cfg.get('device') == 'cuda'
+                    and torch.cuda.is_available()):
+                transcriber.model.to('cpu')
+                torch.cuda.empty_cache()
+                logger.info('Whisper offloaded to CPU RAM (VRAM freed for translation/Ollama).')
 
-            # ── 2. TRANSLATE (optional) ───────────────────────────
+            # ── 2. TRANSLATE (optional) ───────────────────────────────────
             translated = None
             if translate_on:
-                # Estimate chunks for user awareness
                 estimated_chunks = max(1, len(transcript) // 512)
                 logger.info(
                     f'Translating {audio_file.name} to {target_lang_label}... '
@@ -290,11 +307,12 @@ if st.session_state.pipeline_running and audio_input:
                 out_tr.write_text(translated, encoding='utf-8')
                 logger.info(f'Translation saved: {out_tr}')
 
-                # Free NLLB before Ollama
+                # Free NLLB from CPU RAM before Ollama runs
                 translator.unload()
                 gc.collect()
+                logger.info('NLLB unloaded from CPU RAM.')
 
-            # ── 3. SUMMARISE ──────────────────────────────────────
+            # ── 3. SUMMARISE ──────────────────────────────────────────────
             logger.info(f'Summarising {audio_file.name}...')
             with st.spinner('💬 Summarising with Ollama...'):
                 if use_default and prompts:
@@ -306,7 +324,6 @@ if st.session_state.pipeline_running and audio_input:
                         '{transcript}', text_to_summarise
                     )
                 summary = summariser.summarise(full_prompt)
-                summariser.release()   # ← free VRAM immediately after use
                 out_sum = ensure_output_path(
                     os.path.join(ROOT, FOLDERS['output_summary']),
                     audio_file, f'_{ts}_summary.txt',
@@ -314,7 +331,11 @@ if st.session_state.pipeline_running and audio_input:
                 out_sum.write_text(summary, encoding='utf-8')
                 logger.info(f'Summary saved: {out_sum}')
 
-            # Collect result
+                # Release Ollama from VRAM immediately after use
+                # so VRAM is clear when Whisper reloads to GPU on next file/run
+                summariser.release()
+
+            # ── Collect result ────────────────────────────────────────────
             st.session_state.pipeline_results.append({
                 'file':       audio_file.name,
                 'transcript': transcript,
@@ -335,18 +356,9 @@ if st.session_state.pipeline_running and audio_input:
         logger.error(f'Pipeline error: {e}', exc_info=True)
 
     finally:
-        # Explicitly release engine references from session state
-        for key in ['_translator', '_summariser']:
-            engine = st.session_state.pop(key, None)
-            if engine is not None:
-                try:
-                    engine.unload()
-                except Exception:
-                    pass
-                del engine
+        # Whisper stays cached in session state (_transcriber) for fast reuse.
+        # All other models are already released inside the loop above.
         gc.collect()
-        if torch.cuda.is_available():
-            torch.cuda.empty_cache()
         st.session_state.pipeline_running = False
         st.rerun()
 
