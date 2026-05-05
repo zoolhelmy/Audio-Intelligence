@@ -151,7 +151,7 @@ Translation uses sentence-aware chunking — text is split on sentence boundarie
 | `llama3.1:latest` | 4.9 GB | ~6 GB | Higher quality, tight on 16 GB system |
 | `llama3.1:70b` | ~42 GB | ~48 GB | Best quality — requires 64 GB RAM |
 
-Prompt templates are stored as plain `.txt` files in `prompt-summary/` and can be customised per business unit without any code changes.
+Prompt templates are stored as plain `.txt` files in `input-prompt/` and can be customised per business unit without any code changes.
 
 ---
 
